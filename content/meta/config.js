@@ -11,7 +11,7 @@ module.exports = {
   authorTwitterAccount: "zacklive",
   // info
   headerTitle: "@Zack",
-  headerSubTitle: "@Zack - Guitar Practice",
+  headerSubTitle: "@Zack - Guitar Apprentice",
   // manifest.json
   manifestName: "@Zack - Guitar Apprentice",
   manifestShortName: "@Zack", // max 12 characters
