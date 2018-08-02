@@ -68,19 +68,6 @@ const PostShare = props => {
               {count => <div className="share-count">{filter(count)}</div>}
             </FacebookShareCount>
           </FacebookShareButton>
-          <LinkedinShareButton
-            url={url}
-            title={title}
-            description={excerpt}
-            additionalProps={{
-              "aria-label": "LinkedIn share"
-            }}
-          >
-            <LinkedinIcon round size={iconSize} />
-            <LinkedinShareCount url={url}>
-              {count => <div className="share-count">{filter(count)}</div>}
-            </LinkedinShareCount>
-          </LinkedinShareButton>
         </div>
       </div>
 
