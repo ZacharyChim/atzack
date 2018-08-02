@@ -1,5 +1,5 @@
 ---
-title: Problems in learning guitar? Daily practice routine
+title: Guitar learning: a big picture, daily practice routines and buddies
 category: "Guitar"
 cover: guitar.jpg
 author: Zack
