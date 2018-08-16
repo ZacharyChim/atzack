@@ -11,6 +11,12 @@ author: Zack
 
 Today's focus is **A chord**, **D chord**, and **E chord**. Here is the practice plan.
 
+Part 1: Warm up
+`youtube:https://www.youtube.com/embed/8lcjHbE3QII`
+
+Part 2: Chords & Song:
+`youtube:https://www.youtube.com/embed/bcQpOPr0zus`
+
 1. Warn up
    * Finger stretch.
    * Left hand: walking the notes; right hand: picking the notes.
