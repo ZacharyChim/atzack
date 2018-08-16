@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React from "react";
 
-require("prismjs/themes/prism-okaidia.css");
+require("prismjs/themes/prism.css");
 
 import Seo from "../components/Seo";
 import Article from "../components/Article";

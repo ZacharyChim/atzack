@@ -1,5 +1,5 @@
 ---
-title: Guitar learning: a big picture, daily practice routines and buddies
+title: Guitar learning - a big picture, daily practice routines and buddies
 category: "Guitar"
 cover: guitar.jpg
 author: Zack
@@ -25,7 +25,7 @@ As I said, I'm just a beginner. I don't know how to come up with a map or the bi
 
 ![Guitar Practice](guitar-practice.jpg)
 
-Another thing I need is a plan. I'm going to plan my daily practice for the next week in the weekend, so that I know what exactly to practice everyday and I don't need spend time on searching what to learn. During the weekend, I'm going to take a rest from practicing and think/research about what I need to learn the next week.
+Another thing I need is a plan. I'm going to plan my daily practice for the next week in the weekend, so that I know what exactly to practice everyday and I don't need spend time on searching what to learn. During the weekend, I'm going to take a rest from practicing (or practice less) and think/research about what I need to learn the next week.
 
 Daily practice will be divided into 4 parts:
 
@@ -40,6 +40,8 @@ Daily practice will be divided into 4 parts:
 It usually takes more than one day to learn some new techniques and songs, so they might last for the whole week, but with different focuses, for example, I will work on the intro of the song on Monday, the verse on Tuesday, the chorus on Wednesday, etc.
 
 So during the weekday, I don't need to worry about anything, just practice.
+
+By the way, since I'm just a beginner, [Justin Guitar](https://www.justinguitar.com/) will be my main source for guitar techniques.
 
 ##3. Need some guitar buddies to practice together.
 

@@ -107,6 +107,13 @@ module.exports = {
               wrapperStyle: `margin-bottom: 2em`
             }
           },
+          {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {
+              width: 800,
+              height: 400
+            }
+          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,

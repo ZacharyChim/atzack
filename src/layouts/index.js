@@ -1,4 +1,4 @@
-import "typeface-open-sans";
+import "typeface-raleway";
 import FontFaceObserver from "fontfaceobserver";
 import PropTypes from "prop-types";
 import React from "react";
@@ -26,8 +26,8 @@ class Layout extends React.Component {
     };
 
     if (typeof window !== `undefined`) {
-      this.loadFont("font400", "Open Sans", 400);
-      this.loadFont("font600", "Open Sans", 600);
+      this.loadFont("font400", "Raleway", 400);
+      this.loadFont("font600", "Raleway", 600);
     }
   }
 
@@ -109,7 +109,7 @@ class Layout extends React.Component {
                 }
                 body {
                   font-family: ${this.state.font400loaded
-                    ? "'Open Sans', sans-serif;"
+                    ? "Raleway, sans-serif;"
                     : "Arial, sans-serif;"};
                 }
                 h1,
