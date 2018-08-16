@@ -67,7 +67,7 @@ Listen to the song:
 
 `youtube:https://www.youtube.com/embed/KHF9itPLUo4`
 
-Justin's lesson on this song:
+Justin's lesson of this song:
 
 `youtube:https://www.youtube.com/embed/qDXOa0DCnuA`
 
