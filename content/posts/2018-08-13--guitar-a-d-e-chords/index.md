@@ -1,11 +1,11 @@
 ---
 title: Guitar Practice 1 A, D, E Chords
 category: "Guitar"
-cover: guitar-practice-1.jpg
+cover: guitar-a-d-e-chords.jpg
 author: Zack
 ---
 
-![Guitar Practice](guitar-practice-1.jpg)
+![Guitar Practice](guitar-a-d-e-chords.jpg)
 
 ##Daily Guitar Practice 1: A, D, E Chords
 
@@ -33,39 +33,39 @@ Part 2: Chords & Song:
 I Walk the Line
 Johnny Cash
 [Chorus]
-A        E                            A
+         E                            A
 I keep a close watch on this heart of mine
-A         E                      A
+          E                      A
 I keep my eyes wide open all the time.
-A          D                         A
+           D                         A
 I keep the ends out for the tie that binds
-A              E                A
+               E                A
 Because you're mine, I walk the line
 [Verse]
-A        E                           A
+         E                           A
 I find it very, very easy to be true
-A         E                      A
+          E                      A
 I find myself alone when each day is through
-A          D                         A
+           D                         A
 Yes, I'll admit that I'm a fool for you
-A              E                A
+               E                A
 Because you're mine, I walk the line
-A        E                            A
+         E                            A
 As sure as night is dark and day is light
-A         E                      A
+          E                      A
 I keep you on my mind both day and night
-A          D                         A
+           D                         A
 And happiness I've known proves that it's right
-A              E                A
+               E                A
 Because you're mine, I walk the line
 [Chorus]
-A        E                            A
+         E                            A
 You've got a way to keep me on your side
-A         E                      A
+          E                      A
 You give me cause for love that I can't hide
-A          D                         A
+           D                         A
 For you I know I'd even try to turn the tide
-A              E                A
+               E                A
 Because you're mine, I walk the line
 ```
 
