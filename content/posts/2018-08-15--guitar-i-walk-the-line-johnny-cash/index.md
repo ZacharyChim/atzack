@@ -23,6 +23,7 @@ Today I will continue with the **A chord**, **D chord**, and **E chord**, but pu
    * Chords: E A E A D A E A
    * All down strum, 4 strums (1 bar) for each chord.
 
+`youtube:https://www.youtube.com/embed/I8AcTTiRElI`
 
 ```
 I Walk the Line
