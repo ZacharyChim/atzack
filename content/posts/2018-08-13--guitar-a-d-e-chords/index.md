@@ -17,7 +17,7 @@ Part 1: Warm up
 Part 2: Chords & Song:
 `youtube:https://www.youtube.com/embed/bcQpOPr0zus`
 
-1. Warn up
+1. Warm up
    * Finger stretch.
    * Left hand: walking the notes; right hand: picking the notes.
 

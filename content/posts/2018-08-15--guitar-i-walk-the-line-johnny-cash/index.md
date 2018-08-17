@@ -11,7 +11,7 @@ author: Zack
 
 Today I will continue with the **A chord**, **D chord**, and **E chord**, but put more emphasis on the song I started yesterday: I walk the line by Johnny Cash. Also to try out the "bom chika" strumming: base - down up.
 
-1. Warn up
+1. Warm up
    * Finger stretch.
    * Left hand: walking the notes; right hand: picking the notes.
 
@@ -22,6 +22,7 @@ Today I will continue with the **A chord**, **D chord**, and **E chord**, but pu
 3. Song: I Walk The Line by Johnny Cash
    * Chords: E A E A D A E A
    * All down strum, 4 strums (1 bar) for each chord.
+
 
 ```
 I Walk the Line
