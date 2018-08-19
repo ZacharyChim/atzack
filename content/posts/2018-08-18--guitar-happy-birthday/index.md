@@ -13,6 +13,8 @@ Today I will practice a really simple version of the song Happy birthday for ear
 
 A chord, D chord, and E chord are still on the list. Since these are my first set of chords, I'd like to spend more time on them. And the song I walk the line by Johnny Cash is a good practice for the chords.
 
+`youtube:https://www.youtube.com/embed/lBzHhppUccU`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
@@ -35,14 +37,15 @@ Here is the C scale (part) on guitar.
 ![C Scale on Guitar](guitar-c-scale.jpg)
 
 ##How to play Happy Birthday
-
+```
 G G A G C B
 
 G G A G D C
 
 G G G*E C B A
-  
+
 F F E C D C
+```
 
 Andy provides a very easy version of Happy Birthday. Why Happy Birthday? Why does this song has anything to do with the ear training? Check out [Justin's explanation](https://www.youtube.com/watch?v=JshGz3DIscU).
 
