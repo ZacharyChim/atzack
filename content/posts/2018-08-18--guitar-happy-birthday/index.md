@@ -36,6 +36,14 @@ Here is the C scale (part) on guitar.
 
 ##How to play Happy Birthday
 
+G G A G C B
+
+G G A G D C
+
+G G G*E C B A
+  
+F F E C D C
+
 Andy provides a very easy version of Happy Birthday. Why Happy Birthday? Why does this song has anything to do with the ear training? Check out [Justin's explanation](https://www.youtube.com/watch?v=JshGz3DIscU).
 
 `youtube:https://www.youtube.com/embed/35pI-MrsdKo`
