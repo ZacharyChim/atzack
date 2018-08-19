@@ -79,16 +79,16 @@ The number on the blue circle indicates the finger: 1: index finger; 2: middle f
 
 Here is the guitar tab for A major chord. 
 
-![C Major Guitar Chord](a-major.jpg)
+![C Major Guitar Chord](a-major-chord.jpg)
 
 ##How to play D major chord
 
 Here is the guitar tab for D major chord.
 
-![D Major Guitar Chord](d-major.jpg)
+![D Major Guitar Chord](d-major-chord.jpg)
 
 ##How to play E major chord
 
 Here is the guitar tab for E major chord.
 
-![E Major Guitar Chord](e-major.jpg)
+![E Major Guitar Chord](e-major-chord.jpg)
