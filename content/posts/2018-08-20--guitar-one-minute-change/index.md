@@ -11,6 +11,8 @@ author: Zack
 
 It's time to finish up with the A, D, and E chord. One minute change is added. As well as to play I Walk the Line along with Justin.
 
+`youtube:https://www.youtube.com/embed/DvH461yJoMU`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
