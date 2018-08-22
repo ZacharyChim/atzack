@@ -75,11 +75,11 @@ Justin's lesson of this song:
 
 ##How to play A major chord
 
-The number on the blue circle indicates the finger: 1: index finger; 2: middle finger; 3: ring finger; 4: pinky.
+The number on the blue circle indicates the finger: 1: index finger; 2: middle finger; 3: ring finger; 4: pinky. And the blue X means you don't play that string(s).
 
 Here is the guitar tab for A major chord. 
 
-![C Major Guitar Chord](a-major-chord.jpg)
+![A Major Guitar Chord](a-major-chord.jpg)
 
 ##How to play D major chord
 

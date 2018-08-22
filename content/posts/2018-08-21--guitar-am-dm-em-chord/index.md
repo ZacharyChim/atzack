@@ -1,17 +1,15 @@
 ---
-title: Guitar Practice 4 One Minute Change
+title: Guitar Practice 5 Am Dm Em Chords
 category: "Guitar"
-cover: guitar-one-minute-change.jpg
+cover: guitar-am-dm-em-chord.jpg
 author: Zack
 ---
 
-![Guitar Practice](guitar-one-minute-change.jpg)
+![Am Dm Em Chords](guitar-am-dm-em-chord.jpg)
 
-##Daily Guitar Practice 4
+##Daily Guitar Practice 5
 
-It's time to finish up with the A, D, and E chord. One minute change is added. As well as to play I Walk the Line along with Justin.
-
-`youtube:https://www.youtube.com/embed/DvH461yJoMU`
+Today I am going to practice Am, Dm, and Em chords.
 
 1. Warm up
    * Finger stretch.
@@ -20,13 +18,13 @@ It's time to finish up with the A, D, and E chord. One minute change is added. A
    * Happy Birthday
 
 2. Revision: A, D, E Chords
-   * Left hand: positions of fingers.
-   * Right hand: all down strumming & base - down up.
-   * One minute change.
+   * All down strumming & base - down up.
 
-3. Revision: I Walk The Line by Johnny Cash
+3. New chords: Am, Dm, Em chords.
+
+4. Revision: I Walk The Line by Johnny Cash
    * Chords: E A E A D A E A
-   * All down strum, 4 strums (1 bar) for each chord.
+   * All down strumming & base - down up.
 
 ##The C Scale on guitar
 
@@ -45,22 +43,22 @@ G G G*E C B A
 F F E C D C
 ```
 
-##How to play A major chord
+##How to play Am major chord
 
 The number on the blue circle indicates the finger: 1: index finger; 2: middle finger; 3: ring finger; 4: pinky. And the blue X means you don't play that string(s).
 
 Here is the guitar tab for A major chord. 
 
-![A Major Guitar Chord](a-major-chord.jpg)
+![A minor Guitar Chord](a-minor-chord.jpg)
 
 ##How to play D major chord
 
 Here is the guitar tab for D major chord.
 
-![D Major Guitar Chord](d-major-chord.jpg)
+![D Minor Guitar Chord](d-minor-chord.jpg)
 
 ##How to play E major chord
 
 Here is the guitar tab for E major chord.
 
-![E Major Guitar Chord](e-major-chord.jpg)
+![E minor Guitar Chord](e-minor-chord.jpg)
