@@ -26,12 +26,6 @@ Today I am going to practice Am, Dm, and Em chords.
    * Chords: E A E A D A E A
    * All down strumming & base - down up.
 
-##The C Scale on guitar
-
-Here is the C scale (part) on guitar.
-
-![C Scale on Guitar](guitar-c-scale.jpg)
-
 ##How to play Happy Birthday
 ```
 G G A G C B
