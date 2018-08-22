@@ -11,6 +11,8 @@ author: Zack
 
 Today I am going to practice Am, Dm, and Em chords.
 
+`youtube:https://www.youtube.com/embed/bpLaN8Fiw2M`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
