@@ -5,7 +5,7 @@ cover: guitar-practice-sing-note.jpg
 author: Zack
 ---
 
-![Guitar Practice 6 Sing a Note](guitar-parctice-sing-note.jpg)
+![Guitar Practice 6 Sing a Note](guitar-practice-sing-note.jpg)
 
 ##Daily Guitar Practice 6 Sing a Note
 
