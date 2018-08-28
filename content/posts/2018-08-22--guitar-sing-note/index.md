@@ -11,6 +11,8 @@ author: Zack
 
 For today's guitar practice, I will continue to practice Am, Dm, and Em chords. Also to add the singing a note practice and to pay more attention to the difference between chords so that I can tell one from another in the future.
 
+`youtube:https://www.youtube.com/embed/O_3pbZPG67Y`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
