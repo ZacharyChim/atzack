@@ -26,10 +26,12 @@ To get familiar with Am, Dm, and Em chords, I will start to practice the song: A
 
 4. New song: A Girl Like You by Edwyn Collins
    * Sequence: 
+   ```
    Am Am Am Am 
    Dm Dm Em Em
    Am Am Am Am
    Dm Dm Am Am
+   ```
 
 
 Justin's tutorial of this song:
