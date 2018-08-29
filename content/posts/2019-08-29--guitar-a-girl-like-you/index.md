@@ -25,6 +25,7 @@ To get familiar with Am, Dm, and Em chords, I will start to practice the song: A
    * New strumming pattern: Down - Down Up - Up Down -
 
 4. New song: A Girl Like You by Edwyn Collins
+   * Capo: fret 3
    * Sequence: 
    ```
    Am Am Am Am 
