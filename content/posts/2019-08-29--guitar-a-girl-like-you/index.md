@@ -11,8 +11,6 @@ author: Zack
 
 To get familiar with Am, Dm, and Em chords, I will start to practice the song: A Girl Like You by Edwyn Collins. Today's goal is to get familiar with the chord sequence and the new strumming pattern of the song.
 
-`youtube:https://www.youtube.com/embed/O_3pbZPG67Y`
-
 1. Warm up
    * Finger stretch.
    * Walking the notes.
