@@ -9,7 +9,7 @@ author: Zack
 
 ##Daily Guitar Practice 8 Minor Chords
 
-Today I'm continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn Collins.
+Today I'm going to continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn Collins.
 
 1. Warm up
    * Finger stretch.
