@@ -11,8 +11,6 @@ author: Zack
 
 Today I'm continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn Collins.
 
-`youtube:https://www.youtube.com/embed/ZtYXl9mh-lY`
-
 1. Warm up
    * Finger stretch.
    * Walking the notes.
