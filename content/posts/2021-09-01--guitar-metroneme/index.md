@@ -11,6 +11,8 @@ author: Zack
 
 Today I'm going to continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn Collins. Also try to use metronome and tap my foot to the beats.
 
+`youtube:https://youtu.be/1-JNISzSWjI`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
@@ -26,32 +28,6 @@ Today I'm going to continue with minor chords: Am, Dm, and Em. And the song: A G
    * New strumming pattern: Down - Down Up - Up Down -
    * Use metronome and tapping foot.
    * Try to remember the sound of each chord.
-
-4. Song: A Girl Like You by Edwyn Collins
-   * Capo: fret 3
-   * Sequence: 
-   ```
-   Am Am Am Am 
-   Dm Dm Em Em
-   Am Am Am Am
-   Dm Dm Am Am
-   ```
-
-
-Justin's tutorial of this song:
-
-`youtube:https://www.youtube.com/embed/Hak_BtyuyZQ`
-
-##How to play Happy Birthday
-```
-G G A G C B
-
-G G A G D C
-
-G G G*E C B A
-
-F F E C D C
-```
 
 ##Guitar Arsenal
 
