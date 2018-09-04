@@ -11,7 +11,7 @@ author: Zack
 
 Today I'm going to continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn Collins. Also try to use metronome and tap my foot to the beats.
 
-`youtube:https://youtu.be/1-JNISzSWjI`
+`youtube:https://www.youtube.com/embed/1-JNISzSWjI`
 
 1. Warm up
    * Finger stretch.
