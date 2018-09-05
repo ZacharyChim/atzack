@@ -11,6 +11,8 @@ author: Zack
 
 Today's focus is to tell the differences among all the chords I've learned, namely, A, Am, D, Dm, E, Em.
 
+`youtube:https://www.youtube.com/embed/ubSorVTw-kA`
+
 1. Warm up
    * Finger stretch.
    * Walking the notes.
