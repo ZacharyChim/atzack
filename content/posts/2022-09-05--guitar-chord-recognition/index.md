@@ -15,7 +15,7 @@ Today's focus is to tell the differences among all the chords I've learned, name
 `youtube:https://www.youtube.com/embed/ubSorVTw-kA`
 
 11
-`youtube:`
+`youtube:https://www.youtube.com/embed/eDoOTtjzCiM`
 
 1. Warm up
    * Finger stretch.
