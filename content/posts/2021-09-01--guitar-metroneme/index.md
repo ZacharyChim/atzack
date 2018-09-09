@@ -1,5 +1,5 @@
 ---
-title: Guitar Practice 10 Chord Recognition
+title: Guitar Practice 9 Chord Recognition
 category: "Guitar"
 cover: guitar-metronome.jpg
 author: Zack

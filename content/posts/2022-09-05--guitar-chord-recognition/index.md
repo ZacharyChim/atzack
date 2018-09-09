@@ -1,5 +1,5 @@
 ---
-title: Guitar Practice 10 Chord Recognition
+title: Guitar Practice 10 & 11 Chord Recognition
 category: "Guitar"
 cover: guitar-chord-recognition.jpg
 author: Zack
@@ -7,11 +7,15 @@ author: Zack
 
 ![Guitar Practice 10 Chord Recognition](guitar-chord-recognition.jpg)
 
-##Daily Guitar Practice 10 Chord Recognition
+##Daily Guitar Practice 10 & 11 Chord Recognition
 
 Today's focus is to tell the differences among all the chords I've learned, namely, A, Am, D, Dm, E, Em.
 
+10
 `youtube:https://www.youtube.com/embed/ubSorVTw-kA`
+
+11
+`youtube:`
 
 1. Warm up
    * Finger stretch.
