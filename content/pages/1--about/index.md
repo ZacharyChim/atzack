@@ -3,4 +3,4 @@ title: About
 menuTitle: About
 ---
 
-This is Zack. I'm learning guitar.
+This is Zack. I'm learning coding.

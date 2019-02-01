@@ -1,27 +1,38 @@
 module.exports = {
-  siteTitle: "@Zack - Guitar Practice Guitar Apprentice", // <title>
-  shortSiteTitle: "@Zack - Guitar Apprentice", // <title> ending for posts and pages
-  siteDescription: "@Zack - Guitar Practice Guitar Apprentice",
+  siteTitle: "@Zack - Coding Programing", // <title>
+  shortSiteTitle: "@Zack - Coding Programing", // <title> ending for posts and pages
+  siteDescription: "@Zack - Coding Programing",
   siteUrl: "https://atzack.com",
-  pathPrefix: "",
+  // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
-  // author
+
+  /* author */
   authorName: "Zack",
   authorTwitterAccount: "zacklive",
-  // info
+
+  /* info */
   headerTitle: "@Zack",
-  headerSubTitle: "Guitar Apprentice",
-  // manifest.json
-  manifestName: "@Zack - Guitar Apprentice",
+  headerSubTitle: "Coding Programing",
+
+  /* manifest.json */
+  manifestName: "@Zack",
   manifestShortName: "@Zack", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
+
+  // gravatar
+  // Use your Gravatar image. If empty then will use src/images/jpg/avatar.jpg
+  // Replace your email adress with md5-code.
+  // Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
+  // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
+  gravatarImgMd5: "",
+
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/ZacharyChim" },
+    { name: "github", url: "https://github.com/zacharychim" },
     { name: "twitter", url: "https://twitter.com/zacklive" },
     { name: "facebook", url: "http://facebook.com/zacharychim" }
   ]

@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
+import { graphql } from "gatsby";
 import Seo from "../components/Seo";
 import Article from "../components/Article";
 import Page from "../components/Page";
@@ -8,12 +8,7 @@ import { ThemeContext } from "../layouts";
 
 const PageTemplate = props => {
   const {
-    data: {
-      page,
-      site: {
-        siteMetadata: { facebook }
-      }
-    }
+    data: { page }
   } = props;
 
   return (
@@ -26,7 +21,7 @@ const PageTemplate = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo data={page} facebook={facebook} />
+      <Seo data={page} />
     </React.Fragment>
   );
 };
@@ -45,13 +40,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-      }
-    }
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
       }
     }
   }

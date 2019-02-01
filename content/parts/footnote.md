@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-* &copy; [AtZack](https://atzack.com) 2018
+* &copy; 2019 @Zack [AtZack.com](https://atzack.com)
