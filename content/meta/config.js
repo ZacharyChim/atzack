@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "@Zack - Coding Programing", // <title>
-  shortSiteTitle: "@Zack - Coding Programing", // <title> ending for posts and pages
-  siteDescription: "@Zack - Coding Programing",
+  siteTitle: "@Zack - Keep Learning", // <title>
+  shortSiteTitle: "@Zack - Keep Learning", // <title> ending for posts and pages
+  siteDescription: "@Zack - Keep Learning",
   siteUrl: "https://atzack.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "@Zack",
-  headerSubTitle: "Coding Programing",
+  headerSubTitle: "Keep Learning",
 
   /* manifest.json */
   manifestName: "@Zack",
