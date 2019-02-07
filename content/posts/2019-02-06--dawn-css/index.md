@@ -1,5 +1,5 @@
 ---
-title: Box-sizing Best Practice and Reboot.css from Bootstrap
+title: Box-sizing Best Practice and Reboot.css by Bootstrap
 category: "coding"
 cover: css-reset-dawn.jpg
 author: Zack
