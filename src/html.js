@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Adsense from "./components/Adsense";
 
 export default class HTML extends React.Component {
   render() {
@@ -30,6 +31,13 @@ export default class HTML extends React.Component {
           {this.props.preBodyComponents}
           <div key={`body`} id="___gatsby" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           {this.props.postBodyComponents}
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: "(window.adsbygoogle = window.adsbygoogle || []).push({});"
+            }}
+          />
+          <Adsense />
         </body>
       </html>
     );
