@@ -12,10 +12,10 @@ author: Zack
 Today's focus is to tell the differences among all the chords I've learned, namely, A, Am, D, Dm, E, Em.
 
 10
-`youtube:https://www.youtube.com/embed/ubSorVTw-kA`
+`youtube: https://www.youtube.com/embed/ubSorVTw-kA`
 
 11
-`youtube:https://www.youtube.com/embed/eDoOTtjzCiM`
+`youtube: https://www.youtube.com/embed/eDoOTtjzCiM`
 
 1. Warm up
    * Finger stretch.
