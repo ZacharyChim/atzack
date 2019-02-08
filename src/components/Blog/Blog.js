@@ -166,8 +166,8 @@ const Blog = props => {
 Blog.propTypes = {
   posts: PropTypes.array.isRequired,
   theme: PropTypes.object.isRequired,
-  index: PropTypes.object.isRequired,
-  numPages: PropTypes.object.isRequired
+  index: PropTypes.number.isRequired,
+  numPages: PropTypes.number.isRequired
 };
 
 export default Blog;
