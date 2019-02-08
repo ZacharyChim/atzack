@@ -1,11 +1,11 @@
 ---
 title: Box-sizing Best Practice and Reboot.css by Bootstrap
 category: "coding"
-cover: css-reset-dawn.jpg
+cover: box-sizing.jpg
 author: Zack
 ---
 
-![Box-sizing and Reboot.css](css-reset-dawn.jpg)
+![Box-sizing and Reboot.css](box-sizing.jpg)
 
 ## What is box-sizing？
 
