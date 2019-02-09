@@ -13,6 +13,7 @@ export default class HTML extends React.Component {
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
           <meta name="apple-mobile-web-app-title" content="Lazywill" />
+          <meta name="google-site-verification" content="uKzpk_oURu-BUv5TwIWwV7DitANK3EUEDMwsu7hKo7c" />
           <link rel="apple-touch-icon" href="/icons/apple-icon-57x57.png" sizes="57x57" />
           <link rel="apple-touch-icon" href="/icons/apple-icon-60x60.png" sizes="60x60" />
           <link rel="apple-touch-icon" href="/icons/apple-icon-72x72.png" sizes="72x72" />
