@@ -59,7 +59,7 @@ The bug was reported to [Google Chrome](https://bugs.chromium.org/p/chromium/iss
 }
 ```
 
-So they chose to ignore the inherit issue, which is reasonable, but I'm not sure if I like it. It is a tiny bug that's going to be fixed eventually, although we don't know when. But the fact that it hasn't got much attention from the Google Chrome team indicates that this is not a big issue. How often do you use `details`? What about `details` specifically required content-box? But the use of components in web design is getting more attentions and the idea of inheriting is the foundation of CSS. Therefore, I would rather go with Chris Coyier approach and let the Google Chrome team worry about the bug.
+So they chose to ignore the inherit issue, which is reasonable, but I'm not sure if I like it. It is a tiny bug that's going to be fixed eventually, although we don't know when. But the fact that it hasn't got much attention from the Google Chrome team indicates that this is not a big issue. How often do you use `details`? What about `details` specifically required content-box? But the use of components in web design is getting more attentions and the idea of inheriting is the foundation of CSS. Therefore, I would rather go with Chris's approach and let the Google Chrome team worry about the bug.
 
 ## CSS Reset and Reboot.css by Bootstrap
 
