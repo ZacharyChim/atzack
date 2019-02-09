@@ -7,6 +7,8 @@ author: Zack
 
 ![Box-sizing and Reboot.css](box-sizing.jpg)
 
+`youtube: https://www.youtube.com/embed/FkyFbo3w2v8`
+
 ## What is box-sizing？
 
 The [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) in CSS doesn't include padding and border to the width property. This is criticized by many developers. And `box-sizing` setting is here to rescue. By setting `box-sizing: border-box`, your CSS elements will include padding and border in the width, which is great and should be applied to every element. So how do we do that?
