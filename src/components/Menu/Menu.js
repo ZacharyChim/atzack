@@ -6,6 +6,7 @@ import { FaHome } from "react-icons/fa/";
 import { FaSearch } from "react-icons/fa/";
 import { FaEnvelope } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
+import { FaGlobe } from "react-icons/fa/";
 
 import Item from "./Item";
 import Expand from "./Expand";
@@ -149,6 +150,11 @@ class Menu extends React.Component {
             {this.items.map(item => (
               <Item item={item} key={item.label} icon={item.icon} theme={theme} />
             ))}
+            <li className="item">
+              <a style={{ padding: 10, display: "flex" }} href="https://zacklive.com">
+                <FaGlobe />&nbsp;CN
+              </a>
+            </li>
           </ul>
           {this.state.hiddenItems.length > 0 && <Expand onClick={this.toggleMenu} theme={theme} />}
           {open &&
