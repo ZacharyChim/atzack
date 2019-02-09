@@ -9,7 +9,6 @@ import Meta from "./Meta";
 import Author from "./Author";
 // import Comments from "./Comments";
 import NextPrev from "./NextPrev";
-import Adsense from "../../components/Adsense";
 
 // const Share = asyncComponent(() =>
 //   import("./Share")
@@ -42,7 +41,6 @@ const Post = props => {
       </header>
       <Bodytext html={html} theme={theme} />
       <footer>
-        <Adsense />
         {/* <Share post={post} theme={theme} /> */}
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
