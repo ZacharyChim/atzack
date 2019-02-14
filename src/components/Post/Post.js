@@ -40,6 +40,13 @@ const Post = props => {
         <Headline title={title} theme={theme} />
         <Meta prefix={prefix} author={author} category={category} theme={theme} />
       </header>
+      <AdSense.Google
+        client="ca-pub-7299149219813304"
+        slot="5185411091"
+        style={{ display: "block" }}
+        format="auto"
+        responsive="true"
+      />
       <Bodytext html={html} theme={theme} />
       <AdSense.Google
         client="ca-pub-7299149219813304"
