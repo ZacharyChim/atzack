@@ -9,7 +9,7 @@ import Meta from "./Meta";
 import Author from "./Author";
 // import Comments from "./Comments";
 import NextPrev from "./NextPrev";
-// import AdSense from "react-adsense";
+import AdSense from "react-adsense";
 
 // const Share = asyncComponent(() =>
 //   import("./Share")
@@ -41,13 +41,13 @@ const Post = props => {
         <Meta prefix={prefix} author={author} category={category} theme={theme} />
       </header>
       <Bodytext html={html} theme={theme} />
-      {/* <AdSense.Google
+      <AdSense.Google
         client="ca-pub-7299149219813304"
         slot="5185411091"
         style={{ display: "block" }}
         format="auto"
         responsive="true"
-      /> */}
+      />
       <footer>
         {/* <Share post={post} theme={theme} /> */}
         <Author note={authornote} theme={theme} />
