@@ -9,7 +9,7 @@ author: Zack
 
 ## W3Schools How To Series
 
-[W3Schools] (https://www.w3schools.com) is a well-known web design/front-end development tutorial website, which  not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its [How To] (https://www.w3schools.com/howto/default.asp) section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax web page and so on. So I want to do a series of videos dedicated to these How-Tos.
+[W3Schools](https://www.w3schools.com) is a well-known web design/front-end development tutorial website, which  not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its [How To](https://www.w3schools.com/howto/default.asp) section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax web page and so on. So I want to do a series of videos dedicated to these How-Tos.
 
 ## Video link
 
@@ -19,11 +19,11 @@ In 2019, all new web pages will be Responsive. There are three main ways to impl
 
 1. Float
 2. Flexbox
-3. [CSS Grid] (https://zacklive.com/css-grid-intro/)
+3. [CSS Grid](https://zacklive.com/css-grid-intro/)
 
-Of course, all three of them need to be used with [Media Query] (https://zacklive.com/media-query/).
+Of course, all three of them need to be used with [Media Query](https://zacklive.com/media-query/).
 
-Among them, CSS Grid is the latest. But as it's quite new, some worry about the browser support, which you can find more details on [Can I Use] (https://caniuse.com/#feat=css-grid). CSS Grid is designed for grid layouts. It will be the future for web layouts.
+Among them, CSS Grid is the latest. But as it's quite new, some worry about the browser support, which you can find more details on [Can I Use](https://caniuse.com/#feat=css-grid). CSS Grid is designed for grid layouts. It will be the future for web layouts.
 
 [CSS Grid Tutorial on W3Schools](https://www.w3schools.com/css/css_grid.asp)
 
@@ -43,7 +43,7 @@ To create a web layout with float, you can follow these 3 steps:
 2. Control the width of each element with a percentage.
 3. Change the width of the element through Media Query to suit different screen sizes
 
-[Float Example on W3Schools] (https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
+[Float Example on W3Schools](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
 
 We should pay attention to two parts in this example. The first is the left and right columns, they were set to 75% and 25% wide respectively:
 
@@ -110,4 +110,4 @@ The idea of Mobile First means when designing a responsive layout, start from th
 
 You can try to modify the .topnav yourself. Note that the width is auto if it is not specified. In addition, I found that the original example uses 400px as the breakpoint. After changing to min-width, it doesn't work. It needs to be changed to 500px. I am not sure about the reason, if you have any idea, feel free to comment below.
 
-I opened a GitHub repository dedicated to the W3Schools How-tos series. You can find the Mobile First version here: [W3Schools GitHub] (https://github.com/ZacharyChim/W3Schools)
+I opened a GitHub repository dedicated to the W3Schools How-tos series. You can find the Mobile First version here: [W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
