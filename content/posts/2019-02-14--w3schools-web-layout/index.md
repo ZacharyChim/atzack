@@ -39,9 +39,9 @@ W3Schools offers tutorials for all the three methods. Today we will talk about t
 
 To create a web layout with float, you can follow these 3 steps:
 
-1. Float all the elements to the same direction (left or right).
+1. Float all the elements that are going to be responsive to the same direction (left or right).
 2. Control the width of each element with a percentage.
-3. Change the width of the element through Media Query to suit different screen sizes
+3. Change the width of the elements through Media Query for different screen sizes
 
 [Float Example on W3Schools](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
 
