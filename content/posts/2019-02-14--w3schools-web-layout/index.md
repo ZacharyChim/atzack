@@ -11,8 +11,7 @@ author: Zack
 
 [W3Schools](https://www.w3schools.com) is a well-known web design/front-end development tutorial website, which  not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its [How To](https://www.w3schools.com/howto/default.asp) section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax web page and so on. So I want to do a series of videos dedicated to these How-Tos.
 
-## Video link
-
+`youtube: https://www.youtube.com/embed/Q7CcMu3VVC0`
 ## Responsive web layout
 
 In 2019, all new web pages will be Responsive. There are three main ways to implement a responsive layout:
