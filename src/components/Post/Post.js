@@ -9,7 +9,6 @@ import Meta from "./Meta";
 import Author from "./Author";
 // import Comments from "./Comments";
 import NextPrev from "./NextPrev";
-import AdSense from "react-adsense";
 
 const Share = asyncComponent(() =>
   import("./Share")
