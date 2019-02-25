@@ -1,5 +1,5 @@
 ---
-title: How to Create Responsive Website with Float - W3Schools Video 01
+title: Responsive Website with Float - W3Schools How To Video 01
 category: "W3Schools"
 cover: w3schools-float-layout.jpg
 author: Zack
