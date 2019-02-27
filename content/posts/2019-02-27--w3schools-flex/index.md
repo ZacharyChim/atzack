@@ -7,9 +7,11 @@ Author: Zack
 
 ![Flex Responsive Web Page](w3schools-flex.jpg)
 
-Today we are going to continue with our W3Schools series and learn how to create [responsive layout](https://zacklive.com/w3schools-web-layout/) with **Flexbox**. Using Flexbox for responsive design the a norm now at the beginning of 2019. If you are not familiar with Flexbox, you can check out the tutorial by W3Schools:
+Today we are going to continue with our W3Schools series and learn how to create [responsive layout](https://zacklive.com/w3schools-web-layout/) with **Flexbox**. Using Flexbox for responsive design the a norm now at the beginning of 2019. If you are not familiar with Flexbox, check out the tutorial by W3Schools:
 
 * [W3Schools Flexbox Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
+
+The Flexbox Example of today:
 
 * [Flexbox Responsive Layout Exxample](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_make_a_website)
 
@@ -17,9 +19,9 @@ Today we are going to continue with our W3Schools series and learn how to create
 
 ## Flexbox Responsive Design
 
-You can follow the following 3 steps to create responsive layout with Flexbox:
+You can follow the following 3 steps to create a responsive layout with Flexbox:
 
-1. Display the container as flex and make it "wrap";
+1. Set the *display* of the container to *flex* and make it "*wrap*";
 2. Set the *flex-basis* of each item in the Flex container to a percentage;
 3. Change the container's flex direction to *column* (*row* by default) in **Media Query**.
 
@@ -50,7 +52,7 @@ The two columns in the container, a.k.a. the Flex items:
 }
 ```
 
-Finally, the media query, the breakpoint is set at 700px:
+Finally, the media query, the breakpoint is set to 700px:
 
 ```
 @media screen and (max-width: 700px) {
