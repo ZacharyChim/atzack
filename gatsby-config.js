@@ -35,7 +35,7 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
-    siteUrl: config.siteUrl
+    siteUrl: config.siteUrl,
     // algolia: {
     //   appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
     //   searchOnlyApiKey: process.env.ALGOLIA_SEARCH_ONLY_API_KEY
