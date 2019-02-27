@@ -31,7 +31,7 @@ const Seo = props => {
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
-      {/* <meta property="fb:app_id" content={facebook.appId} /> */}
+      <meta property="fb:app_id" content={facebook.appId} />
       {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary" />
       <meta
@@ -44,7 +44,7 @@ const Seo = props => {
 
 Seo.propTypes = {
   data: PropTypes.object,
-  // facebook: PropTypes.object.isRequired
+  facebook: PropTypes.object.isRequired
 };
 
 export default Seo;

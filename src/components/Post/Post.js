@@ -27,7 +27,7 @@ const Post = props => {
       frontmatter: { title, author, category }
     },
     authornote,
-    // facebook,
+    facebook,
     next: nextPost,
     prev: prevPost,
     theme
@@ -53,7 +53,7 @@ const Post = props => {
 Post.propTypes = {
   post: PropTypes.object.isRequired,
   authornote: PropTypes.string.isRequired,
-  // facebook: PropTypes.object.isRequired,
+  facebook: PropTypes.object.isRequired,
   next: PropTypes.object,
   prev: PropTypes.object,
   theme: PropTypes.object.isRequired
