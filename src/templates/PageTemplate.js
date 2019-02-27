@@ -8,7 +8,12 @@ import { ThemeContext } from "../layouts";
 
 const PageTemplate = props => {
   const {
-    data: { page }
+    data: {
+      page,
+      site: {
+        siteMetadata: { facebook }
+      }
+    }
   } = props;
 
   return (
@@ -21,7 +26,7 @@ const PageTemplate = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo data={page} />
+      <Seo data={page} facebook={facebook} />
     </React.Fragment>
   );
 };
@@ -40,6 +45,13 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+      }
+    }
+    site {
+      siteMetadata {
+        facebook {
+          appId
+        }
       }
     }
   }

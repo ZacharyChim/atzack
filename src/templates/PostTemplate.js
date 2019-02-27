@@ -37,7 +37,7 @@ const PostTemplate = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo data={post} />
+      <Seo data={post} facebook={facebook} />
     </React.Fragment>
   );
 };

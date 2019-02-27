@@ -25,6 +25,9 @@ class IndexPage extends React.Component {
         },
         bgMobile: {
           resize: { src: mobile }
+        },
+        site: {
+          siteMetadata: { facebook }
         }
       },
       pageContext: { index, numPages }
@@ -57,7 +60,7 @@ class IndexPage extends React.Component {
           {theme => <Blog posts={posts} theme={theme} index={index} numPages={numPages} />}
         </ThemeContext.Consumer>
 
-        <Seo />
+        <Seo facebook={facebook} />
 
         <style jsx>{`
           hr {
@@ -123,6 +126,13 @@ export const query = graphql`
     bgMobile: imageSharp(fluid: { originalName: { regex: "/hero-background/" } }) {
       resize(width: 450, height: 850, quality: 90, cropFocus: CENTER) {
         src
+      }
+    }
+    site {
+      siteMetadata {
+        facebook {
+          appId
+        }
       }
     }
   }
