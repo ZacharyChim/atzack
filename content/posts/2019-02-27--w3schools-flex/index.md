@@ -1,6 +1,6 @@
 ---
 Title: Flexbox Responsive Layout - W3Schools How To Video 02
-Category: "coding"
+Category: "W3Schools"
 Cover: w3schools-flex.jpg
 Author: Zack
 ---
