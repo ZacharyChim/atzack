@@ -1,11 +1,11 @@
 ---
-Title: Flexbox Responsive Layout W3Schools How To Video 02
-Category: "W3Schools"
-Cover: w3schools-flex.jpg
-Author: Zack
+title: Flexbox Responsive Layout - W3Schools How To Video 02
+category: "W3Schools"
+cover: flexbox.jpg
+author: Zack
 ---
 
-![Flex Responsive Web Page](w3schools-flex.jpg)
+![Flex Responsive Web Page](flexbox.jpg)
 
 Today we are going to continue with our W3Schools series and learn how to create [responsive layout](https://zacklive.com/w3schools-web-layout/) with **Flexbox**. Using Flexbox for responsive design the a norm now at the beginning of 2019. If you are not familiar with Flexbox, check out the tutorial by W3Schools:
 
@@ -113,4 +113,4 @@ The code for the W3Schools series is on GitHub now: [W3Schools GitHub](https://g
 W3Schools is a well-known web design/front-end development tutorial website, which not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its How To section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax web page and so on. So I want to do a series of videos dedicated to these How-Tos.
 
 1. [Float Responsive Web Page Layout](https://atzack.com/w3schools-web-layout/)
-2. [Flexbox Responsive Web Page Layout - W3Schools Video 02](https://atzack.com/w3schools-flex/)
+2. [Flexbox Responsive Web Page Layout - W3Schools Video 02](https://atzack.com/w3schools-flex-layout/)
