@@ -22,15 +22,15 @@ The Flexbox Example of today:
 You can follow the following 3 steps to create a responsive layout with Flexbox:
 
 1. Set the *display* of the container to *flex* and make it "*wrap*";
-2. Set the *flex-basis* of each item in the Flex container to a percentage;
-3. Change the container's flex direction to *column* (*row* by default) in **Media Query**.
+2. Set the *flex-basis* of each flex item in the flex container to a percentage;
+3. Change the container's flex direction to *column* (*row* by default) in the **Media Query**.
 
 In the W3Schools example, the Flex container is set as below:
 
 ```
 .row {
-  Display: flex;
-  Flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 ```
 
@@ -39,16 +39,16 @@ The two columns in the container, a.k.a. the Flex items:
 ```
 /* Sidebar/left column */
 .side {
-  Flex: 30%;
-  Background-color: #f1f1f1;
-  Padding: 20px;
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
 }
 
 /* Main column */
 .main {
-  Flex: 70%;
-  Background-color: white;
-  Padding: 20px;
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
 }
 ```
 
@@ -57,7 +57,7 @@ Finally, the media query, the breakpoint is set to 700px:
 ```
 @media screen and (max-width: 700px) {
   .row {
-    Flex-direction: column;
+    flex-direction: column;
   }
 }
 ```
@@ -70,8 +70,8 @@ The Flex container:
 
 ```
 .row {
-  Display: flex;
-  Flex-direction: column
+  display: flex;
+  flex-direction: column
 }
 ```
 
@@ -79,14 +79,14 @@ The Flex items:
 
 ```
 .side {
-  Padding: 20px;
-  Background-color: #f1f1f1;
+  padding: 20px;
+  background-color: #f1f1f1;
 }
 
 /* Main column */
 .main {
-  Padding: 20px;
-  Background-color: white;
+  padding: 20px;
+  background-color: white;
 }
 ```
 
@@ -95,13 +95,13 @@ And the media query:
 ```
 @media screen and (min-width: 700px) {
   .row {
-    Flex-direction: row;
+    flex-direction: row;
   }
   .side {
-    Flex: 30%;
+    flex: 30%;
   }
   .main {
-    Flex: 70%;
+    flex: 70%;
   }
 }
 ```
