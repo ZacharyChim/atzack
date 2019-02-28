@@ -7,7 +7,7 @@ author: Zack
 
 ![Flex Responsive Layout](flexbox.jpg)
 
-Today we are going to continue with our W3Schools series and learn how to create [responsive layout](https://zacklive.com/w3schools-web-layout/) with **Flexbox**. Using Flexbox for responsive design the a norm now at the beginning of 2019. If you are not familiar with Flexbox, check out the tutorial by W3Schools:
+Today we are going to continue with our [W3Schools series](https://zacklive.com/w3schools-web-layout/) and learn how to create responsive layout with **Flexbox**. Using Flexbox for responsive design the a norm now at the beginning of 2019. If you are not familiar with Flexbox, check out the tutorial by W3Schools:
 
 * [W3Schools Flexbox Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
 

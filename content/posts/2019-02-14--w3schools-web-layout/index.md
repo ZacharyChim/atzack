@@ -11,8 +11,14 @@ author: Zack
 
 [W3Schools](https://www.w3schools.com) is a well-known web design/front-end development tutorial website, which  not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its [How To](https://www.w3schools.com/howto/default.asp) section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax effect and so on. So I want to do a series of videos dedicated to these How-Tos.
 
-`youtube: https://www.youtube.com/embed/Q7CcMu3VVC0`
+All videos in this seires:
+
+1. [Float Responsive Layout](https://atzack.com/w3schools-web-layout/)
+2. [Flexbox Responsive Layout](https://atzack.com/w3schools-flex-layout/)
+
 ## Responsive web layout
+
+`youtube: https://www.youtube.com/embed/Q7CcMu3VVC0`
 
 In 2019, all new web pages will be Responsive. There are three main ways to implement a responsive layout:
 
@@ -110,8 +116,3 @@ The idea of Mobile First means when designing a responsive layout, start from th
 You can try to modify the .topnav yourself. Note that the width is auto if it is not specified. In addition, I found that the original example uses 400px as the breakpoint. After changing to min-width, it doesn't work. It needs to be changed to 500px. I am not sure about the reason, if you have any idea, feel free to comment below.
 
 I opened a GitHub repository dedicated to the W3Schools How-tos series. You can find the Mobile First version here: [W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
-
-W3Schools How To Videos:
-
-1. [Float Responsive Layout](https://atzack.com/w3schools-web-layout/)
-2. [Flexbox Responsive Layout](https://atzack.com/w3schools-flex-layout/)
