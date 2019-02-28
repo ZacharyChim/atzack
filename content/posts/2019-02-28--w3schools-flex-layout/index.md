@@ -108,7 +108,7 @@ And the media query:
 
 The code for the W3Schools series is on GitHub now: [W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
 
-## W3Schools Teaching Series
+## W3Schools How-Tos Videos
 
 W3Schools is a well-known web design/front-end development tutorial website, which not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its How To section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax effect and so on. So I want to do a series of videos dedicated to these How-Tos.
 
