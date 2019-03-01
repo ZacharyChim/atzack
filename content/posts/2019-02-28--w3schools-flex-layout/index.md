@@ -13,7 +13,7 @@ Today we are going to continue with our [W3Schools series](https://zacklive.com/
 
 The Flexbox Example of today:
 
-* [Flexbox Responsive Layout Exxample](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_make_a_website)
+* [Flexbox Responsive Layout Example](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_make_a_website)
 
 `youtube: https://www.youtube.com/embed/tVc5N2Jb1QA`
 
