@@ -1,33 +1,29 @@
 ---
-title: CSS Grid响应式网页布局 - W3Schools视频03
+title: CSS Grid Responsive Layout - W3Schools Video 03
 category: "coding"
 cover: css-grid.jpg
 author: Zack
 ---
 
-![CSS Grid响应式网页布局](css-grid.jpg)
+![CSS Grid Responsive Layout](css-grid.jpg)
 
-继续[W3Schools响应式网页布局](https://zacklive.com/w3schools-web-layout/)的实现，今日讲的是**CSS Grid**方案。CSS Grid就是为二维布局设计的，最适合用来做网页布局。目前主流的浏览器都已经支持CSS Grid，除非你很确定你的用户常使用较旧的浏览器，不然的话，建议使用CSS Grid来设计网页布局。如果你对CSS Grid并不熟悉，可以参考以下的教学：
+Today we are going to continue with [responsive Layout](https://zacklive.com/w3schools-web-layout/), using **CSS Grid**. CSS Grid is designed for grid layout, which is perfect for website layout. Currently all the mainstream browsers have already supported CSS Grid, unless you are sure that your users use older browsers, like IE 9, it is recommended to use CSS Grid to create layouts for websites. If you are not familiar with CSS Grid, you can refer to the tutorial on W3Schools:
 
-* [CSS网格(CSS Grid)完整教学](https://zacklive.com/css-grid-intro/)
-* [W3Schools CSS Grid教学](https://www.w3schools.com/css/css_grid.asp)
+* [W3Schools CSS Grid Teaching](https://www.w3schools.com/css/css_grid.asp)
 
-* [CSS Grid实现响应式网页布局例子](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named)
+* [CSS Grid responsive layout example](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named)
 
-## 视频连结
+## Video link
 
-* [B站](https://www.bilibili.com/video/av45523828/)
-* [YouTube](https://youtu.be/7-RcgXc2KXg)
+## CSS Grid Responsive Layout
 
-## CSS Grid响应式网页布局
+There are many ways to implement responsive layouts with CSS Grid. The easiest is to use *grid-template-areas* (note that it is plural). Again it takes three steps:
 
-透过CSS Grid实现响应式网页布局的方法有很多种，最简单，也最能体现CSS Grid的特点的方法是使用*grid-template-areas*（注意是复数，结尾有s）。这种方法同样可分为三步：
+1. Assign a name of *grid-area* to each Grid item;
+2. Use grid-template-areas to control the space occupied by each Grid item;
+3. Change the space occupied by each Grid item with **Media Query**.
 
-1. 为每一个Grid项赋与一个名字；
-2. 用grid-template-areas来控制每一个Grid项所占的空间；
-3. 通过**Media Query**改变每一个Grid项所占的空间。
-
-在W3Schools的例子中，一开始便为每一个div取了一个相应的名称：
+In the W3Schools example, each div is given a corresponding grid-area name:
 
 ```
 .item1 { grid-area: header; }
@@ -37,48 +33,48 @@ author: Zack
 .item5 { grid-area: footer; }
 ```
 
-注意这里的*grid-area*是单数。接著在包含这些div的容器中控制它们的所占空间比例。
+Note that *grid-area* is singular. And then you can use grid-template-areas to control them.
 
 ```
 .grid-container {
-  display: grid;
-  grid-template-areas:
-    'header header header header header header'
-    'menu main main main right right'
-    'menu footer footer footer footer footer';
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
 }
 ```
 
-重点在于grid-template-areas，可以看到这里的设定便是CSS Grid最终的显示效果。其中menu是最小宽度单位，header等于六个menu；main等于三个menu；right等于两个menu；而footer则等于五个menu。menu的宽度为1个单位，但高度却跨两行。
+The grid-template-areas is the key point here. You can see that the setting here is same as the final result. Where menu is the minimum width unit, the width of the header div equals to the width of six menus; the main div equals to three menus; the right div equals to two menus; and the footer div equals to five menus. The width of the menu is 1 unit, but it takes up two rows in height.
 
-在W3Schools的例子中，并没有实现响应式的部分，但我们可以自行加入媒体查询的部分来实现。透过这个实现，你可以看到CSS Grid的神奇、直观、易用的特点。
+In this example, responsiveness was not considered, but we can do that just adding a small piece code of the media query.
 
 ```
 @media screen and (max-width: 700px) {
-  .grid-container {
-    grid-template-areas:
-        'header'
-        'menu'
-        'main'
-        'right'
-        'footer'
-  }
+  .grid-container {
+    grid-template-areas:
+        'header'
+        'menu'
+        'main'
+        'right'
+        'footer'
+  }
 }
 ```
 
-在媒体查询的部分，只要更改grid-template-areas的设定就能改变整个布局。
+In the media query, you can change the entire layout by changing the settings of grid-template-areas. This is the magic of CSS grid and why it is the best option for layout design.
 
-同样地，这个例子也没有采用移动优先原则。你也可以将这个例子改为移动优先作为练习，由于前两篇中都做过这样的尝试，这里就不再赘述了。
+Again, this example does not embrace the mobile first principle. You can apply the principle to the example as an exercise.
 
-W3Schools系列的代码都在GitHub上：[W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
+The code for changes is available on GitHub: [W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
 
-## W3Schools教学系列
+## W3Schools How-To Videos
 
-[W3Schools](https://www.w3schools.com)是知名的网页设计／前端开发教学网站，不仅提供HTML、CSS、JavaScript等的详尽教学，还可以把它当作说明文件（Documents）。有经验的前端或多或少已经接触过这个网站，因为它经常出现在搜索结果的前几项。其中，它的[How To](https://www.w3schools.com/howto/default.asp)部分更是包含了大量非常实用的例子，例如，如何制作SlideShow（图片轮播）、Lightbox、Parallax（视差效果）等等。因此我想做一系列的影片专门介绍这些How To。
+W3Schools is a well-known web design/front-end development tutorial website, which not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its How To section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax effect and so on. So I want to do a series of videos dedicated to these How-Tos.
 
-1. [Float响应式网页布局](https://zacklive.com/w3schools-web-layout/)
-2. [Flexbox响应式网页布局](https://zacklive.com/w3schools-flex/)
-3. [CSS Grid响应式网页布局](https://zacklive.com/w3schools-grid/)
+1. [Float Responsive Layout](https://atzack.com/w3schools-web-layout/)
+2. [Flexbox Responsive Layout](https://atzack.com/w3schools-flex-layout/)
+3. [CSS Grid Responsive Layout](https://atzack.com/w3schools-grid/)
