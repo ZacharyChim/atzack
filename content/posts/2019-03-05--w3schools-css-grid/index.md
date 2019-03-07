@@ -9,7 +9,7 @@ author: Zack
 
 Today we are going to continue with [responsive Layout](https://zacklive.com/w3schools-web-layout/), using **CSS Grid**. CSS Grid is designed for grid layout, which is perfect for website layout. Currently all the mainstream browsers have already supported CSS Grid, unless you are sure that your users use older browsers, like IE 9, it is recommended to use CSS Grid to create layouts for websites. If you are not familiar with CSS Grid, you can refer to the tutorial on W3Schools:
 
-* [W3Schools CSS Grid Teaching](https://www.w3schools.com/css/css_grid.asp)
+* [W3Schools CSS Grid Tutorial](https://www.w3schools.com/css/css_grid.asp)
 
 * [CSS Grid responsive layout example](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named)
 
