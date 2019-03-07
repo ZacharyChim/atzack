@@ -13,7 +13,7 @@ Today we are going to continue with [responsive Layout](https://zacklive.com/w3s
 
 * [CSS Grid responsive layout example](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named)
 
-## Video link
+`youtube:https://www.youtube.com/embed/WQPmTBUy8XE`
 
 ## CSS Grid Responsive Layout
 
