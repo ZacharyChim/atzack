@@ -67,7 +67,6 @@ Now, let's take a Look at the CSS:
 
 /* Next & previous buttons */
 .prev, .next {
-  cursor: pointer;
   position: absolute;
   top: 50%;
   width: auto;
