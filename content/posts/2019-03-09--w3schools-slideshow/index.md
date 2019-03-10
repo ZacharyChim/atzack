@@ -13,7 +13,7 @@ A slideshow is a common feature on a website. Today I'm going to take a look at 
 * [The Slideshow example by W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow)
 * [The Simplified Slideshow](https://zacharychim.github.io/W3Schools/4_slideshow/)
 
-## Video link
+`youtube:https://www.youtube.com/embed/rF875rUpCNg`
 
 ## How to Create a Slideshow
 
@@ -31,15 +31,15 @@ Firstly, let's take look at the HTML. We have only a container, three pictures, 
 ```
 <div class="slideshow-container">
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <img src="img_nature_wide.jpg" style="width:100%">
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <img src="img_snow_wide.jpg" style="width:100%">
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <img src="img_mountains_wide.jpg" style="width:100%">
   </div>
 
@@ -55,35 +55,32 @@ Now, let's take a Look at the CSS:
 
 ```
 .mySlides {
-  Display: none
+  display: none
 }
 
 /* Slideshow container */
 .slideshow-container {
-  Max-width: 1000px;
-  Position: relative;
-  Margin: auto;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
 
 /* Next & previous buttons */
 .prev, .next {
-  Cursor: pointer;
-  Position: absolute;
-  Top: 50%;
-  Width: auto;
-  Padding: 16px;
-  Margin-top: -22px;
-  Color: white;
-  Font-weight: bold;
-  Font-size: 18px;
-  Border-radius: 0 3px 3px 0;
-  User-select: none;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 /* Position the "next button" to the right */
 .next {
   Right: 0;
-  Border-radius: 3px 0 0 3px;
 }
 ```
 
