@@ -1,5 +1,5 @@
 ---
-title: How to Create a Slideshow on Your Website - W3Schools Video 03
+title: How to Create a Slideshow on Your Website - W3Schools Video 04
 category: "coding"
 cover: slideshow.jpg
 author: Zack
