@@ -11,10 +11,13 @@ author: Zack
 
 [W3Schools](https://www.w3schools.com) is a well-known web design/front-end development tutorial website, which  not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its [How To](https://www.w3schools.com/howto/default.asp) section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax effect and so on. So I want to do a series of videos dedicated to these How-Tos.
 
-All videos in this seires:
+All the videos in this series:
 
 1. [Float Responsive Layout](https://atzack.com/w3schools-web-layout/)
-2. [Flexbox Responsive Layout](https://atzack.com/w3schools-flex-layout/)
+2. [Flexbox Responsive Layout](https://atzack.com/w3schools-flex/)
+3. [CSS Grid Responsive Layout](https://atzack.com/w3schools-grid/)
+4. [How to Create a Slideshow](https://atzack.com/w3schools-slideshow/)
+5. [How to Create a Responsive Navigation](https://atzack.com/w3schools-responsive-nav/)
 
 ## Responsive web layout
 
