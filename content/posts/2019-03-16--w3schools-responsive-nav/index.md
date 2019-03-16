@@ -7,7 +7,7 @@ author: Zack
 
 ![Responsive navigation](responsive-nav.jpg)
 
-A navigation is a basic feature of a website and making it responsive is also a must nowadays. A common approach to create a responsive navigation is to use a navigation icon to represent the navigation and to show the whole menu only when the icon is clicked. Today we are following the tutorial from W3Schools to create a responsive navigation.
+A navigation is a basic feature of a website and making it responsive is also a must nowadays. A common approach to creating a responsive navigation is to use a navigation icon to represent the navigation and to show the whole menu only when the icon is clicked. Today we are following the tutorial from W3Schools to create a responsive navigation.
 
 * [W3Schools Responsive Navigation Tutorial](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 * [The Responsive Navigation Example](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
