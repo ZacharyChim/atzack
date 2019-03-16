@@ -18,11 +18,13 @@ A navigation is a basic feature of a website and making it responsive is also a 
 
 Here are some key points for creating a responsive navigation:
 
-1. Hide the navigation icon on a larger screen; display all the menu items of the navigation.
-2. Hide most navigation items on a smaller screen, except for the Home page and the navigation icon, and only to display other items when the icon is clicked.
-3. When the icon is clicked, add the `responsive` class to the navigation in JavaScript, which will list the all navigation items vertically.
+1. Hide the navigation icon on a larger screen; display all the items of the navigation.
+2. Hide most navigation items on a smaller screen, except for the Home link and the navigation icon, and only display other items when the icon is clicked.
+3. When the icon is clicked, add the `responsive` css class to the navigation div in JavaScript, which will list the all navigation items vertically.
 
-Here is the HTML part of the responsive navigation:
+### The HTML of the Responsive Navigation
+
+Here is the HTML of the responsive navigation:
 
 ```
 <!DOCTYPE html>
@@ -52,9 +54,11 @@ Here is the HTML part of the responsive navigation:
 </html>
 ```
 
-First of all, a css file of the [Font Awesome](https://fontawesome.com/) is loaded via the `<link>` tag in the `<head>` section, so that we can use the navigation icon. This will load all the font icons of Font Awesome, and we use only one of them. A better way to do this is to use [Fontello](http://fontello.com/) to select the icons you want, generate your own icon set, and load it into your web pages.
+First of all, a css file of the [Font Awesome](https://fontawesome.com/) is loaded via the `<link>` tag in the `<head>` section, so that we can use the navigation icon. This will load all the font icons of the Font Awesome, and we use only one of them. A better way to do this is to use [Fontello](http://fontello.com/) to select the icons you want, generate your own icon set, and load it into your web pages.
 
-You can see that the last link in the `topnav` is the navigation icon. `javascript:void(0);` is set for the reference of the link so that the default function of a link (jumping to another page or location) is disabled. An `icon` class is added and the `onclick` event is set to the `toggleNav` function.
+The last link in the `topnav` is the navigation icon. `javascript:void(0);` is set for the reference of the link so that the default function of a link (jumping to another page or location) is disabled. An `icon` class is added and the `onclick` event is set to the `toggleNav` function, which we will talk about in the JavaScript section.
+
+### The CSS of the Responsive Navigation
 
 Let's take a look at the CSS:
 
@@ -121,11 +125,13 @@ body {
 }
 ```
 
-There are two key points here: one is the `.topnav .icon`, which is set to be hidden with `display: none;`; the other is the media query, which we are going to take a closer look.
+There are two key points here: one is the `.topnav .icon`, which is set to be hidden with `display: none;`; the other is the **media query**, which we are going to take a closer look.
 
-The first group of settings in the media query hides all navigation items except for the first one (the home page). The second group is to display the navigation icon and set it to the right side of the navigation.
+The first group of settings in the media query hides all navigation items except for the first one (the Home link). The second group displays the navigation icon and set it to the right side of the navigation.
 
-The next three groups are all for the `responsive` class, which is to fixate the icon to the right, and then to display all the links in the navigation and let them take up the entire row.
+The next three groups are all for the `responsive` class, which is to fixate the icon to the right, and then to display all the links in the navigation and let them take up a whole row.
+
+### The JavaScript of the Responsive Navigation
 
 Finally, the JavaScript:
 
@@ -140,12 +146,12 @@ function toggleNav() {
 }
 ```
 
-When the icon is clicked, this function will be triggered. We get the `myTopnav` element through `document.getElementById` and check if its `className` has only the `topnav` class, if true, we add the ` responsive` (note that there is a space) class; otherwise, reset it to `topnav` . Adding the `responsive` class is to display all navigation items, as we discussed above in the css section. Without the `responsive` class, only the navigation icon and the home page link are shown.
+There is only one function in the JavaScript, the `toggleNav`. When the icon is clicked, this function will be triggered. We get the `myTopnav` element through `document.getElementById` and check if its `className` has only the `topnav` class, if true, we add the ` responsive` (note that there is a space in front of the class name) class; otherwise, reset it to the `topnav`. Adding the `responsive` class is to display all navigation items, as we discussed above in the css section. Without the `responsive` class, only the navigation icon and the home link are shown.
 
 This is a common approach to implement a responsive navigation. If you want to know more about other navigation menus, the following two are worth taking a look at:
 
-1. [Side Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp): by changing the `width` of the navigation; The slide-in effect is achieved by the `transition` property.
-2. [Full screen Overlay Navigation](https://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp): by chang the `width` and the `height`; change the `width` of the navigation to slide in; change the `height` to slide down. The slide-in/down effect is also achieved by the `transition` property.
+1. [Slide-in Side Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp): changing the `width` of the navigation; The slide-in effect is achieved by the `transition` property.
+2. [Full screen Overlay Navigation](https://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp): Changing the `width` and the `height` of the navigation; change the `width` to slide in; change the `height` to slide down. The slide in and down effects are also achieved by the `transition` property.
 
 The code for the W3Schools series is available on GitHub: [W3Schools GitHub](https://github.com/ZacharyChim/W3Schools)
 
