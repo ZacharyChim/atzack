@@ -20,7 +20,7 @@ How to create a lightbox:
 
 1. Hide the lightbox by default.
 2. Only show the lightbox when the thumbnail is clicked.
-3. Use CSS animation to create to zoom in effect.
+3. Use CSS animation to create the zoom in effect.
 
 ### The HTML of the lightbox
 Here's the HTML of the lightbox:
@@ -152,7 +152,7 @@ img.onclick = function(){
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span.onclick = function() {
   modal.style.display = "none";
 }
 ```
