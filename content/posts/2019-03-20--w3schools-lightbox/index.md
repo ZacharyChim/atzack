@@ -157,7 +157,7 @@ span.onclick = function() {
 }
 ```
 
-Three things are done in the JavaScript here. Firstly, display the lightbox. Secondly, set the src of the image and use the alt from the thumbnail for the caption of the image. Lastly, implement the event function for the close button.
+Three things are done in the JavaScript here. Firstly, show the lightbox. Secondly, set the src of the image and use the alt from the thumbnail for the caption of the image. Lastly, implement the event function for the close button.
 
 That's how you create a lightbox, if you want to know more, compare the tutorials of the modal images and the lightbox.
 
