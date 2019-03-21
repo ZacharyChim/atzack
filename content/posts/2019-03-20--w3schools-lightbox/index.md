@@ -12,7 +12,7 @@ A Lightbox is a popup/modal window that shows an image or an image gallery. W3Sc
 * [W3Schools Lightbox Tutorial](https://www.w3schools.com/howto/howto_css_modal_images.asp)
 * [Lightbox Example](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
 
-## Video link
+`youtube:https://www.youtube.com/embed/IpysIcMqrrQ`
 
 ## How to Create a Lightbox
 
