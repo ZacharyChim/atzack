@@ -14,7 +14,7 @@ A Lightbox is a popup/modal window that shows an image or an image gallery. W3Sc
 
 ## Video link
 
-## Lightbox
+## How to Create a Lightbox
 
 How to create a lightbox:
 
@@ -22,6 +22,7 @@ How to create a lightbox:
 2. Only show the lightbox when the thumbnail is clicked.
 3. Use CSS animation to create to zoom in effect.
 
+### The HTML of the lightbox
 Here's the HTML of the lightbox:
 
 ```
@@ -39,7 +40,9 @@ Here's the HTML of the lightbox:
 
 The first image is the thumbnail with a maximum width of 300px. The lightbox comes next and is called myModal as it is also a modal. It consists a close button, an image, and a caption. Note that the src of the image is not specified. It will be added by JavaScript, so is the caption. The light box was hidden at the beginning through CSS.
 
-Look at the CSS part:
+### The CSS of the Lightbox
+
+And here is the CSS of the lightbox:
 
 ```
 /* Style the Image Used to Trigger the Modal */
@@ -126,6 +129,8 @@ Look at the CSS part:
 The key is the `.modal`, which is not displayed at the beginning and takes up the whole screen. The background color is black with 0.9 opacity setting.
 
 The zoom in effect is done in the CSS animation. We are using transform to scale the scale of the image and the caption from 0 to 1.
+
+### The JavaScript of the Lightbox
 
 Finally, let's take a look at the JavaScript:
 
