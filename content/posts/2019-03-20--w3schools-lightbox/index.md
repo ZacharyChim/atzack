@@ -23,6 +23,7 @@ How to create a lightbox:
 3. Use CSS animation to create the zoom in effect.
 
 ### The HTML of the lightbox
+
 Here's the HTML of the lightbox:
 
 ```
@@ -38,7 +39,7 @@ Here's the HTML of the lightbox:
 </div>
 ```
 
-The first image is the thumbnail with a maximum width of 300px. The lightbox comes next and is called myModal as it is also a modal. It consists a close button, an image, and a caption. Note that the src of the image is not specified. It will be added by JavaScript, so is the caption. The light box was hidden at the beginning through CSS.
+The first image is the thumbnail with a maximum width of 300px. The lightbox comes next and is called myModal as it is also a modal. It consists a close button, an image, and a caption. Note that the src of the image is not specified. It will be added by JavaScript, so is the content of the caption. The light box was hidden at the beginning through CSS.
 
 ### The CSS of the Lightbox
 
