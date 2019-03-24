@@ -15,11 +15,17 @@ Anyway, here is my practice plan.
 
 ## Day 1: Beginner Chords & Back to December by Taylor Swift
 
+5 minutes interval.
+
 1. Warm up
 
 2. The Major Scale: pattern 4
 
 3. [Beginner Chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chords-ch-110): C, D, E, [F](https://www.justinguitar.com/guitar-lessons/the-f-chord-ch-310), G, A
+
+    * Strum - Pick - Strum
+    * 1 minute change
+    * Try to remember the sound of each chord
 
 4. **Back to December by Taylor Swift**
 
@@ -32,7 +38,9 @@ D   D   DUD D
 [Guitar Tab](https://tabs.ultimate-guitar.com/tab/taylor_swift/back_to_december_chords_995361)
 
 
-## Day 2
+## Day 2: Minor Chords & Mad World by Gary Jules
+
+5 minutes interval.
 
 1. Warm up
 
@@ -44,6 +52,31 @@ D   D   DUD D
 
 5. New Chords:
     * [Minor Chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chords-ch-110): Am, Em, Dm
+
+        * Strum - Pick - Strum
+        * 1 minute change
+        * Try to remember the sound of each chord
+
+6. New Songs: Mad World by Gary Jules
+
+## Day 3: 7th Chords & Stand by Me by Ben E King
+
+5 minutes interval.
+
+1. Warm up
+
+2. The Major Scale: pattern 4
+
+3. Chords Revision: C, D, E, F, G, A
+
+4. Song Revision: Back to December by Taylor Swift
+
+5. New Chords:
     * [Open 7th Chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-ch-210): G7, C7, B7, A7, D7, E7
 
-6. New Songs:
+        * Strum - Pick - Strum
+        * 1 minute change
+        * Try to remember the sound of each chord
+
+6. New Songs: Stand by Me by Ben E King
+
