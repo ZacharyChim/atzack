@@ -15,8 +15,6 @@ Anyway, here is my practice plan.
 
 ## Day 1: Beginner Chords & Back to December by Taylor Swift
 
-5 minutes interval.
-
 1. Warm up
 
 2. The Major Scale: pattern 4
@@ -42,8 +40,6 @@ D   D   DUD D
 
 ## Day 2: Minor Chords & Mad World by Gary Jules
 
-5 minutes interval.
-
 1. Warm up
 
 2. The Major Scale: pattern 4
@@ -65,8 +61,6 @@ D   D   DUD D
 
 ## Day 3: 7th Chords & Stand by Me by Ben E King
 
-5 minutes interval.
-
 1. Warm up
 
 2. The Major Scale: pattern 4
@@ -76,11 +70,11 @@ D   D   DUD D
     * Am, Dm, Em
 
 4. Song Revision: 
-    * Back to December by Taylor Swift
-    * Mad World by Gary Jules
+    * [Back to December by Taylor Swift](https://tabs.ultimate-guitar.com/tab/taylor_swift/back_to_december_chords_995361)
+    * [Mad World by Gary Jules](https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039)
 
 5. New Chords:
-    * [Open 7th Chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-ch-210): G7, C7, B7, A7, D7, E7
+    * [Open 7th Chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-ch-210): G7, C7, B7
 
         * Strum - Pick - Strum
         * 1 minute change
@@ -90,4 +84,29 @@ D   D   DUD D
     * [Stand by Me by Ben E King](https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/ben_e_king/stand_by_me_chords_1724608)
 
-** Day 4:
+**Day 4: 7th Chords & What's Up by 4 Non Blondes**
+
+1. Warm up
+
+2. The Major Scale: pattern 4
+
+3. Chords Revision: 
+    * C, D, E, F, G, A
+    * Am, Dm, Em
+    * G7, C7, B7
+
+4. Song Revision: 
+    * [Back to December by Taylor Swift](https://tabs.ultimate-guitar.com/tab/taylor_swift/back_to_december_chords_995361)
+    * [Mad World by Gary Jules](https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039)
+    * [Stand by Me by Ben E King](https://tabs.ultimate-guitar.com/tab/ben_e_king/stand_by_me_chords_1724608)
+
+5. New Chords:
+    * Open 7th Chords: [A7, D7, E7](https://www.justinguitar.com/guitar-lessons/a7-d7-e7-chords-bc-151), [F Major 7](https://www.justinguitar.com/guitar-lessons/the-f-maj7-chord-bc-142)
+
+        * Strum - Pick - Strum
+        * 1 minute change
+        * Try to remember the sound of each chord
+
+6. New Song: 
+    * [What's Up by 4 Non Blondes](https://www.justinguitar.com/songs/4-non-blondes-what-s-up-chords-tabs-guitar-lesson-bs-308)
+    * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/4_non_blondes/whats_up_chords_349210)
