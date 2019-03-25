@@ -47,7 +47,6 @@ module.exports = {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
     }
   },
-  pathPrefix: "/atzack",
   plugins: [
     `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
     `gatsby-plugin-styled-jsx-postcss`, // as above

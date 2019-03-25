@@ -27,7 +27,7 @@ Anyway, here is my practice plan.
     * 1 minute change
     * Try to remember the sound of each chord
 
-4. New songs: 
+4. New song: 
     * [Back to December by Taylor Swift](https://www.justinguitar.com/songs/taylor-swift-back-to-december-chords-tabs-guitar-lesson-bs-406)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/taylor_swift/back_to_december_chords_995361)
 
@@ -59,7 +59,7 @@ D   D   DUD D
         * 1 minute change
         * Try to remember the sound of each chord
 
-6. New Songs: 
+6. New Song
     * [Mad World by Gary Jules](https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039)
 
@@ -86,6 +86,8 @@ D   D   DUD D
         * 1 minute change
         * Try to remember the sound of each chord
 
-6. New Songs: 
+6. New Song: 
     * [Stand by Me by Ben E King](https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/ben_e_king/stand_by_me_chords_1724608)
+
+** Day 4:
