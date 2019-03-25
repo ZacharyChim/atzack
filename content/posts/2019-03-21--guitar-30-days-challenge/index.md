@@ -67,9 +67,13 @@ D   D   DUD D
 
 2. The Major Scale: pattern 4
 
-3. Chords Revision: C, D, E, F, G, A
+3. Chords Revision: 
+    * C, D, E, F, G, A
+    * Am, Dm, Em
 
-4. Song Revision: Back to December by Taylor Swift
+4. Song Revision: 
+    * Back to December by Taylor Swift
+    * Mad World by Gary Jules
 
 5. New Chords:
     * [Open 7th Chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-ch-210): G7, C7, B7, A7, D7, E7
@@ -78,5 +82,4 @@ D   D   DUD D
         * 1 minute change
         * Try to remember the sound of each chord
 
-6. New Songs: Stand by Me by Ben E King
-
+6. New Songs: [Stand by Me by Ben E King](https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323)
