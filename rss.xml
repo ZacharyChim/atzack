@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 25 Mar 2019 14:51:57 GMT</lastBuildDate><item><title><![CDATA[30 Days Guitar Challenge]]></title><description><![CDATA[I’ve been trying to learn guitar on and off. In the next 30 days, I want to push myself to spend much more time on practicing guitar. That’s…]]></description><link>https://atzack.com/guitar-30-days-challenge/</link><guid isPermaLink="false">https://atzack.com/guitar-30-days-challenge/</guid><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 25 Mar 2019 15:05:30 GMT</lastBuildDate><item><title><![CDATA[30 Days Guitar Challenge]]></title><description><![CDATA[I’ve been trying to learn guitar on and off. In the next 30 days, I want to push myself to spend much more time on practicing guitar. That’s…]]></description><link>https://atzack.com/guitar-30-days-challenge/</link><guid isPermaLink="false">https://atzack.com/guitar-30-days-challenge/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/0975d/guitar.jpg&quot;
+    href=&quot;/static/ca56bcbb0528bc7d23477731ec7c423d/0975d/guitar.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,11 +20,11 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;30 Days Guitar Challenge&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/78f2b/guitar.jpg&quot;
-        srcset=&quot;/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/dce19/guitar.jpg 200w,
-/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/c1413/guitar.jpg 400w,
-/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/78f2b/guitar.jpg 800w,
-/atzack/static/ca56bcbb0528bc7d23477731ec7c423d/0975d/guitar.jpg 1024w&quot;
+        src=&quot;/static/ca56bcbb0528bc7d23477731ec7c423d/78f2b/guitar.jpg&quot;
+        srcset=&quot;/static/ca56bcbb0528bc7d23477731ec7c423d/dce19/guitar.jpg 200w,
+/static/ca56bcbb0528bc7d23477731ec7c423d/c1413/guitar.jpg 400w,
+/static/ca56bcbb0528bc7d23477731ec7c423d/78f2b/guitar.jpg 800w,
+/static/ca56bcbb0528bc7d23477731ec7c423d/0975d/guitar.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -53,7 +53,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Back to December by Taylor Swift&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;New songs: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.justinguitar.com/songs/taylor-swift-back-to-december-chords-tabs-guitar-lesson-bs-406&quot;&gt;Back to December by Taylor Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tabs.ultimate-guitar.com/tab/taylor_swift/back_to_december_chords_995361&quot;&gt;Guitar Tabs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Strumming:&lt;/p&gt;
@@ -89,7 +93,11 @@ D   D   DUD D&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;New Songs: Mad World by Gary Jules&lt;/p&gt;
+&lt;p&gt;New Songs: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039&quot;&gt;Mad World by Gary Jules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tabs.ultimate-guitar.com/tab/gary_jules/mad_world_chords_97039&quot;&gt;Guitar Tabs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Day 3: 7th Chords &amp;#x26; Stand by Me by Ben E King&lt;/h2&gt;
@@ -102,10 +110,18 @@ D   D   DUD D&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;The Major Scale: pattern 4&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Chords Revision: C, D, E, F, G, A&lt;/p&gt;
+&lt;p&gt;Chords Revision: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C, D, E, F, G, A&lt;/li&gt;
+&lt;li&gt;Am, Dm, Em&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Song Revision: Back to December by Taylor Swift&lt;/p&gt;
+&lt;p&gt;Song Revision: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Back to December by Taylor Swift&lt;/li&gt;
+&lt;li&gt;Mad World by Gary Jules&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;New Chords:&lt;/p&gt;
@@ -121,12 +137,16 @@ D   D   DUD D&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;New Songs: Stand by Me by Ben E King&lt;/p&gt;
+&lt;p&gt;New Songs: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323&quot;&gt;Stand by Me by Ben E King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tabs.ultimate-guitar.com/tab/ben_e_king/stand_by_me_chords_1724608&quot;&gt;Guitar Tabs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[How to Create a Lightbox - W3Schools Video 06]]></title><description><![CDATA[A Lightbox is a popup/modal window that shows an image or an image gallery. W3Schools offers two tutorials on this matter: Modal Images and…]]></description><link>https://atzack.com/w3schools-lightbox/</link><guid isPermaLink="false">https://atzack.com/w3schools-lightbox/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/0975d/lightbox.jpg&quot;
+    href=&quot;/static/ca4def07fe309ba5f44138b4a519477e/0975d/lightbox.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -138,18 +158,18 @@ D   D   DUD D&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAXWLJJD/xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREhAx/9oACAEBAAEFAlzRCw+hqm+f/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAhAAASEx/9oACAEBAAY/AtKYT5S//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIVFBYeH/2gAIAQEAAT8hTNJ6OCkJknTUTXZXgWn/2gAMAwEAAgADAAAAEJfP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITFB/9oACAEBAAE/EHkFO1PuvPX4LoAgZR45OG1YMwiuqSu//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 48.828125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAU+UmkI//8QAGhABAAIDAQAAAAAAAAAAAAAAAQIxABARIf/aAAgBAQABBQKEvFxsvrr/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAAAESAyM//aAAgBAQAGPwKrM4//xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhQWFxkf/aAAgBAQABPyGCvYmy9GtUDtUbNjEf/9oADAMBAAIAAwAAABDUz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVFxsf/aAAgBAQABPxCjAQuEu4rFDz35gLlN4LdQbQ7xhU/abH3P/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Lightbox&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/78f2b/lightbox.jpg&quot;
-        srcset=&quot;/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/dce19/lightbox.jpg 200w,
-/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/c1413/lightbox.jpg 400w,
-/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/78f2b/lightbox.jpg 800w,
-/atzack/static/4ef5dbc9ebb36e2d2af65e42b492584f/0975d/lightbox.jpg 1024w&quot;
+        src=&quot;/static/ca4def07fe309ba5f44138b4a519477e/78f2b/lightbox.jpg&quot;
+        srcset=&quot;/static/ca4def07fe309ba5f44138b4a519477e/dce19/lightbox.jpg 200w,
+/static/ca4def07fe309ba5f44138b4a519477e/c1413/lightbox.jpg 400w,
+/static/ca4def07fe309ba5f44138b4a519477e/78f2b/lightbox.jpg 800w,
+/static/ca4def07fe309ba5f44138b4a519477e/0975d/lightbox.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -322,7 +342,7 @@ span.onclick = function() {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[How to Create a Responsive Navigation - W3Schools Video 05]]></title><description><![CDATA[A navigation is a basic feature of a website and making it responsive is also a must nowadays. A common approach to creating a responsive…]]></description><link>https://atzack.com/w3schools-responsive-nav/</link><guid isPermaLink="false">https://atzack.com/w3schools-responsive-nav/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6ed2cb62370a7345270a17e45f569ba1/0975d/responsive-nav.jpg&quot;
+    href=&quot;/static/6ed2cb62370a7345270a17e45f569ba1/0975d/responsive-nav.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -341,11 +361,11 @@ span.onclick = function() {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Responsive navigation&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6ed2cb62370a7345270a17e45f569ba1/78f2b/responsive-nav.jpg&quot;
-        srcset=&quot;/atzack/static/6ed2cb62370a7345270a17e45f569ba1/dce19/responsive-nav.jpg 200w,
-/atzack/static/6ed2cb62370a7345270a17e45f569ba1/c1413/responsive-nav.jpg 400w,
-/atzack/static/6ed2cb62370a7345270a17e45f569ba1/78f2b/responsive-nav.jpg 800w,
-/atzack/static/6ed2cb62370a7345270a17e45f569ba1/0975d/responsive-nav.jpg 1024w&quot;
+        src=&quot;/static/6ed2cb62370a7345270a17e45f569ba1/78f2b/responsive-nav.jpg&quot;
+        srcset=&quot;/static/6ed2cb62370a7345270a17e45f569ba1/dce19/responsive-nav.jpg 200w,
+/static/6ed2cb62370a7345270a17e45f569ba1/c1413/responsive-nav.jpg 400w,
+/static/6ed2cb62370a7345270a17e45f569ba1/78f2b/responsive-nav.jpg 800w,
+/static/6ed2cb62370a7345270a17e45f569ba1/0975d/responsive-nav.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -508,7 +528,7 @@ span.onclick = function() {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[How to Create a Slideshow on Your Website - W3Schools Video 04]]></title><description><![CDATA[A slideshow is a common feature on a website. Today I’m going to take a look at the How to create a slideshow tutorial on W3Schools. The W…]]></description><link>https://atzack.com/w3schools-slideshow/</link><guid isPermaLink="false">https://atzack.com/w3schools-slideshow/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/0975d/slideshow.jpg&quot;
+    href=&quot;/static/d152a9ca5d66fde20fbc5391fa1a0e85/0975d/slideshow.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -527,11 +547,11 @@ span.onclick = function() {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;slideshow&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/78f2b/slideshow.jpg&quot;
-        srcset=&quot;/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/dce19/slideshow.jpg 200w,
-/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/c1413/slideshow.jpg 400w,
-/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/78f2b/slideshow.jpg 800w,
-/atzack/static/d152a9ca5d66fde20fbc5391fa1a0e85/0975d/slideshow.jpg 1024w&quot;
+        src=&quot;/static/d152a9ca5d66fde20fbc5391fa1a0e85/78f2b/slideshow.jpg&quot;
+        srcset=&quot;/static/d152a9ca5d66fde20fbc5391fa1a0e85/dce19/slideshow.jpg 200w,
+/static/d152a9ca5d66fde20fbc5391fa1a0e85/c1413/slideshow.jpg 400w,
+/static/d152a9ca5d66fde20fbc5391fa1a0e85/78f2b/slideshow.jpg 800w,
+/static/d152a9ca5d66fde20fbc5391fa1a0e85/0975d/slideshow.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -661,7 +681,7 @@ function showSlides(n) {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[CSS Grid Responsive Layout - W3Schools Video 03]]></title><description><![CDATA[Today we are going to continue with  responsive Layout , using  CSS Grid . CSS Grid is designed for grid layout, which is perfect for…]]></description><link>https://atzack.com/w3schools-css-grid/</link><guid isPermaLink="false">https://atzack.com/w3schools-css-grid/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/0975d/css-grid.jpg&quot;
+    href=&quot;/static/9abd3200f4992782e6bc535f57d1ddfc/0975d/css-grid.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -680,11 +700,11 @@ function showSlides(n) {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;CSS Grid Responsive Layout&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/78f2b/css-grid.jpg&quot;
-        srcset=&quot;/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/dce19/css-grid.jpg 200w,
-/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/c1413/css-grid.jpg 400w,
-/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/78f2b/css-grid.jpg 800w,
-/atzack/static/9abd3200f4992782e6bc535f57d1ddfc/0975d/css-grid.jpg 1024w&quot;
+        src=&quot;/static/9abd3200f4992782e6bc535f57d1ddfc/78f2b/css-grid.jpg&quot;
+        srcset=&quot;/static/9abd3200f4992782e6bc535f57d1ddfc/dce19/css-grid.jpg 200w,
+/static/9abd3200f4992782e6bc535f57d1ddfc/c1413/css-grid.jpg 400w,
+/static/9abd3200f4992782e6bc535f57d1ddfc/78f2b/css-grid.jpg 800w,
+/static/9abd3200f4992782e6bc535f57d1ddfc/0975d/css-grid.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -772,7 +792,7 @@ function showSlides(n) {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Flexbox Responsive Layout - W3Schools How To Video 02]]></title><description><![CDATA[Today we are going to continue with our  W3Schools series  and learn how to create a responsive layout with  Flexbox . Using Flexbox for a…]]></description><link>https://atzack.com/w3schools-flex-layout/</link><guid isPermaLink="false">https://atzack.com/w3schools-flex-layout/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/0975d/flexbox.jpg&quot;
+    href=&quot;/static/6e0c9b7ca6b467b5055f23e3e13389a0/0975d/flexbox.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -791,11 +811,11 @@ function showSlides(n) {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Flex Responsive Layout&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/78f2b/flexbox.jpg&quot;
-        srcset=&quot;/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/dce19/flexbox.jpg 200w,
-/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/c1413/flexbox.jpg 400w,
-/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/78f2b/flexbox.jpg 800w,
-/atzack/static/6e0c9b7ca6b467b5055f23e3e13389a0/0975d/flexbox.jpg 1024w&quot;
+        src=&quot;/static/6e0c9b7ca6b467b5055f23e3e13389a0/78f2b/flexbox.jpg&quot;
+        srcset=&quot;/static/6e0c9b7ca6b467b5055f23e3e13389a0/dce19/flexbox.jpg 200w,
+/static/6e0c9b7ca6b467b5055f23e3e13389a0/c1413/flexbox.jpg 400w,
+/static/6e0c9b7ca6b467b5055f23e3e13389a0/78f2b/flexbox.jpg 800w,
+/static/6e0c9b7ca6b467b5055f23e3e13389a0/0975d/flexbox.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -906,7 +926,7 @@ function showSlides(n) {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Responsive Website with Float - W3Schools How To Video 01]]></title><description><![CDATA[W3Schools How-tos Series W3Schools  is a well-known web design/front-end development tutorial website, which  not only provides detailed…]]></description><link>https://atzack.com/w3schools-web-layout/</link><guid isPermaLink="false">https://atzack.com/w3schools-web-layout/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/0975d/w3schools-float-layout.jpg&quot;
+    href=&quot;/static/ecb7e91fb0f329862f5cd3c9bbaee59f/0975d/w3schools-float-layout.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -925,11 +945,11 @@ function showSlides(n) {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Responsive Web Float&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/78f2b/w3schools-float-layout.jpg&quot;
-        srcset=&quot;/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/dce19/w3schools-float-layout.jpg 200w,
-/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/c1413/w3schools-float-layout.jpg 400w,
-/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/78f2b/w3schools-float-layout.jpg 800w,
-/atzack/static/ecb7e91fb0f329862f5cd3c9bbaee59f/0975d/w3schools-float-layout.jpg 1024w&quot;
+        src=&quot;/static/ecb7e91fb0f329862f5cd3c9bbaee59f/78f2b/w3schools-float-layout.jpg&quot;
+        srcset=&quot;/static/ecb7e91fb0f329862f5cd3c9bbaee59f/dce19/w3schools-float-layout.jpg 200w,
+/static/ecb7e91fb0f329862f5cd3c9bbaee59f/c1413/w3schools-float-layout.jpg 400w,
+/static/ecb7e91fb0f329862f5cd3c9bbaee59f/78f2b/w3schools-float-layout.jpg 800w,
+/static/ecb7e91fb0f329862f5cd3c9bbaee59f/0975d/w3schools-float-layout.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1040,7 +1060,7 @@ function showSlides(n) {
 &lt;p&gt;I opened a GitHub repository dedicated to the W3Schools How-tos series. You can find the Mobile First version here: &lt;a href=&quot;https://github.com/ZacharyChim/W3Schools&quot;&gt;W3Schools GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Box-sizing Best Practice and Reboot.css by Bootstrap]]></title><description><![CDATA[What is box-sizing？ The  Box Model  in CSS doesn’t include padding and border to the width property. This is criticized by many developers…]]></description><link>https://atzack.com/dawn-css/</link><guid isPermaLink="false">https://atzack.com/dawn-css/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/0975d/box-sizing.jpg&quot;
+    href=&quot;/static/1ece8427a1a4534fcf67e4c59058a6b6/0975d/box-sizing.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1059,11 +1079,11 @@ function showSlides(n) {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Box-sizing and Reboot.css&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/78f2b/box-sizing.jpg&quot;
-        srcset=&quot;/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/dce19/box-sizing.jpg 200w,
-/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/c1413/box-sizing.jpg 400w,
-/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/78f2b/box-sizing.jpg 800w,
-/atzack/static/1ece8427a1a4534fcf67e4c59058a6b6/0975d/box-sizing.jpg 1024w&quot;
+        src=&quot;/static/1ece8427a1a4534fcf67e4c59058a6b6/78f2b/box-sizing.jpg&quot;
+        srcset=&quot;/static/1ece8427a1a4534fcf67e4c59058a6b6/dce19/box-sizing.jpg 200w,
+/static/1ece8427a1a4534fcf67e4c59058a6b6/c1413/box-sizing.jpg 400w,
+/static/1ece8427a1a4534fcf67e4c59058a6b6/78f2b/box-sizing.jpg 800w,
+/static/1ece8427a1a4534fcf67e4c59058a6b6/0975d/box-sizing.jpg 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1141,7 +1161,7 @@ body {
 &lt;p&gt;As a result, I create my own CSS Reset based on Reboot.css. This will be the start of all my new projects and I will keep updating it. And it’s now available on GitHub: &lt;a href=&quot;https://github.com/ZacharyChim/dawn.css&quot;&gt;Dawn.css&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 10 & 11 Chord Recognition]]></title><description><![CDATA[Daily Guitar Practice 10 & 11 Chord Recognition Today’s focus is to tell the differences among all the chords I’ve learned, namely, A, Am, D…]]></description><link>https://atzack.com/guitar-chord-recognition/</link><guid isPermaLink="false">https://atzack.com/guitar-chord-recognition/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/0f78a823afca04718c71c6aa5574756e/ab4c4/guitar-chord-recognition.jpg&quot;
+    href=&quot;/static/0f78a823afca04718c71c6aa5574756e/ab4c4/guitar-chord-recognition.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1160,11 +1180,11 @@ body {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice 10 Chord Recognition&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/0f78a823afca04718c71c6aa5574756e/78f2b/guitar-chord-recognition.jpg&quot;
-        srcset=&quot;/atzack/static/0f78a823afca04718c71c6aa5574756e/dce19/guitar-chord-recognition.jpg 200w,
-/atzack/static/0f78a823afca04718c71c6aa5574756e/c1413/guitar-chord-recognition.jpg 400w,
-/atzack/static/0f78a823afca04718c71c6aa5574756e/78f2b/guitar-chord-recognition.jpg 800w,
-/atzack/static/0f78a823afca04718c71c6aa5574756e/ab4c4/guitar-chord-recognition.jpg 1200w&quot;
+        src=&quot;/static/0f78a823afca04718c71c6aa5574756e/78f2b/guitar-chord-recognition.jpg&quot;
+        srcset=&quot;/static/0f78a823afca04718c71c6aa5574756e/dce19/guitar-chord-recognition.jpg 200w,
+/static/0f78a823afca04718c71c6aa5574756e/c1413/guitar-chord-recognition.jpg 400w,
+/static/0f78a823afca04718c71c6aa5574756e/78f2b/guitar-chord-recognition.jpg 800w,
+/static/0f78a823afca04718c71c6aa5574756e/ab4c4/guitar-chord-recognition.jpg 1200w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1253,7 +1273,7 @@ body {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 9 Chord Recognition]]></title><description><![CDATA[Daily Guitar Practice 9 Metronome and Beats Today I’m going to continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by…]]></description><link>https://atzack.com/guitar-metroneme/</link><guid isPermaLink="false">https://atzack.com/guitar-metroneme/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/68fff0a72146062536935204e63353fe/ab4c4/guitar-metronome.jpg&quot;
+    href=&quot;/static/68fff0a72146062536935204e63353fe/ab4c4/guitar-metronome.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1272,11 +1292,11 @@ body {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice 9 Metronome and Beats&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/68fff0a72146062536935204e63353fe/78f2b/guitar-metronome.jpg&quot;
-        srcset=&quot;/atzack/static/68fff0a72146062536935204e63353fe/dce19/guitar-metronome.jpg 200w,
-/atzack/static/68fff0a72146062536935204e63353fe/c1413/guitar-metronome.jpg 400w,
-/atzack/static/68fff0a72146062536935204e63353fe/78f2b/guitar-metronome.jpg 800w,
-/atzack/static/68fff0a72146062536935204e63353fe/ab4c4/guitar-metronome.jpg 1200w&quot;
+        src=&quot;/static/68fff0a72146062536935204e63353fe/78f2b/guitar-metronome.jpg&quot;
+        srcset=&quot;/static/68fff0a72146062536935204e63353fe/dce19/guitar-metronome.jpg 200w,
+/static/68fff0a72146062536935204e63353fe/c1413/guitar-metronome.jpg 400w,
+/static/68fff0a72146062536935204e63353fe/78f2b/guitar-metronome.jpg 800w,
+/static/68fff0a72146062536935204e63353fe/ab4c4/guitar-metronome.jpg 1200w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1351,7 +1371,7 @@ body {
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 8 Minor Chords]]></title><description><![CDATA[Daily Guitar Practice 8 Minor Chords Today I’m going to continue with minor chords: Am, Dm, and Em. And the song: A Girl Like You by Edwyn…]]></description><link>https://atzack.com/guitar-minor-chords/</link><guid isPermaLink="false">https://atzack.com/guitar-minor-chords/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/94dbd7f77e364b43752cb4891700b34b/d1d70/guitar-minor-chords.jpg&quot;
+    href=&quot;/static/94dbd7f77e364b43752cb4891700b34b/d1d70/guitar-minor-chords.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1370,12 +1390,12 @@ body {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice 8 Minor Chords&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/94dbd7f77e364b43752cb4891700b34b/78f2b/guitar-minor-chords.jpg&quot;
-        srcset=&quot;/atzack/static/94dbd7f77e364b43752cb4891700b34b/dce19/guitar-minor-chords.jpg 200w,
-/atzack/static/94dbd7f77e364b43752cb4891700b34b/c1413/guitar-minor-chords.jpg 400w,
-/atzack/static/94dbd7f77e364b43752cb4891700b34b/78f2b/guitar-minor-chords.jpg 800w,
-/atzack/static/94dbd7f77e364b43752cb4891700b34b/ab4c4/guitar-minor-chords.jpg 1200w,
-/atzack/static/94dbd7f77e364b43752cb4891700b34b/d1d70/guitar-minor-chords.jpg 1280w&quot;
+        src=&quot;/static/94dbd7f77e364b43752cb4891700b34b/78f2b/guitar-minor-chords.jpg&quot;
+        srcset=&quot;/static/94dbd7f77e364b43752cb4891700b34b/dce19/guitar-minor-chords.jpg 200w,
+/static/94dbd7f77e364b43752cb4891700b34b/c1413/guitar-minor-chords.jpg 400w,
+/static/94dbd7f77e364b43752cb4891700b34b/78f2b/guitar-minor-chords.jpg 800w,
+/static/94dbd7f77e364b43752cb4891700b34b/ab4c4/guitar-minor-chords.jpg 1200w,
+/static/94dbd7f77e364b43752cb4891700b34b/d1d70/guitar-minor-chords.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1478,7 +1498,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+    href=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1497,10 +1517,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
+        src=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+        srcset=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1513,7 +1533,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+    href=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1532,10 +1552,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
+        src=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+        srcset=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1548,7 +1568,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+    href=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1567,10 +1587,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
+        src=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+        srcset=&quot;/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
+/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
+/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1595,7 +1615,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 7 A Girl Like You]]></title><description><![CDATA[Daily Guitar Practice 7 A Girl Like You To get familiar with Am, Dm, and Em chords, I will start to practice the song: A Girl Like You by…]]></description><link>https://atzack.com/guitar-a-girl-like-you/</link><guid isPermaLink="false">https://atzack.com/guitar-a-girl-like-you/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/d1d70/guitar-a-girl-like-you.jpg&quot;
+    href=&quot;/static/f1bb3cdea6f73551ea100b36d909bddb/d1d70/guitar-a-girl-like-you.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1614,12 +1634,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice 7 A Girl Like You&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/78f2b/guitar-a-girl-like-you.jpg&quot;
-        srcset=&quot;/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/dce19/guitar-a-girl-like-you.jpg 200w,
-/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/c1413/guitar-a-girl-like-you.jpg 400w,
-/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/78f2b/guitar-a-girl-like-you.jpg 800w,
-/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/ab4c4/guitar-a-girl-like-you.jpg 1200w,
-/atzack/static/f1bb3cdea6f73551ea100b36d909bddb/d1d70/guitar-a-girl-like-you.jpg 1280w&quot;
+        src=&quot;/static/f1bb3cdea6f73551ea100b36d909bddb/78f2b/guitar-a-girl-like-you.jpg&quot;
+        srcset=&quot;/static/f1bb3cdea6f73551ea100b36d909bddb/dce19/guitar-a-girl-like-you.jpg 200w,
+/static/f1bb3cdea6f73551ea100b36d909bddb/c1413/guitar-a-girl-like-you.jpg 400w,
+/static/f1bb3cdea6f73551ea100b36d909bddb/78f2b/guitar-a-girl-like-you.jpg 800w,
+/static/f1bb3cdea6f73551ea100b36d909bddb/ab4c4/guitar-a-girl-like-you.jpg 1200w,
+/static/f1bb3cdea6f73551ea100b36d909bddb/d1d70/guitar-a-girl-like-you.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1723,7 +1743,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+    href=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1742,10 +1762,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
+        src=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+        srcset=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1758,7 +1778,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+    href=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1777,10 +1797,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
+        src=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+        srcset=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1793,7 +1813,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+    href=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1812,10 +1832,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
+        src=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+        srcset=&quot;/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
+/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
+/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1840,7 +1860,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 6 Sing a Note]]></title><description><![CDATA[Daily Guitar Practice 6 Sing a Note For today’s guitar practice, I will continue to practice Am, Dm, and Em chords. Also to add the singing…]]></description><link>https://atzack.com/guitar-sing-note/</link><guid isPermaLink="false">https://atzack.com/guitar-sing-note/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/3d03e51318ba5add99dcb682faa328bb/d1d70/guitar-practice-sing-note.jpg&quot;
+    href=&quot;/static/3d03e51318ba5add99dcb682faa328bb/d1d70/guitar-practice-sing-note.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1859,12 +1879,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice 6 Sing a Note&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/3d03e51318ba5add99dcb682faa328bb/78f2b/guitar-practice-sing-note.jpg&quot;
-        srcset=&quot;/atzack/static/3d03e51318ba5add99dcb682faa328bb/dce19/guitar-practice-sing-note.jpg 200w,
-/atzack/static/3d03e51318ba5add99dcb682faa328bb/c1413/guitar-practice-sing-note.jpg 400w,
-/atzack/static/3d03e51318ba5add99dcb682faa328bb/78f2b/guitar-practice-sing-note.jpg 800w,
-/atzack/static/3d03e51318ba5add99dcb682faa328bb/ab4c4/guitar-practice-sing-note.jpg 1200w,
-/atzack/static/3d03e51318ba5add99dcb682faa328bb/d1d70/guitar-practice-sing-note.jpg 1280w&quot;
+        src=&quot;/static/3d03e51318ba5add99dcb682faa328bb/78f2b/guitar-practice-sing-note.jpg&quot;
+        srcset=&quot;/static/3d03e51318ba5add99dcb682faa328bb/dce19/guitar-practice-sing-note.jpg 200w,
+/static/3d03e51318ba5add99dcb682faa328bb/c1413/guitar-practice-sing-note.jpg 400w,
+/static/3d03e51318ba5add99dcb682faa328bb/78f2b/guitar-practice-sing-note.jpg 800w,
+/static/3d03e51318ba5add99dcb682faa328bb/ab4c4/guitar-practice-sing-note.jpg 1200w,
+/static/3d03e51318ba5add99dcb682faa328bb/d1d70/guitar-practice-sing-note.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1937,7 +1957,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+    href=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1956,10 +1976,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
+        src=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+        srcset=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1972,7 +1992,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+    href=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1991,10 +2011,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
+        src=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+        srcset=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2007,7 +2027,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+    href=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2026,10 +2046,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
+        src=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+        srcset=&quot;/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
+/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
+/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2039,7 +2059,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 5 Am Dm Em Chords]]></title><description><![CDATA[Daily Guitar Practice 5 Today I am going to practice Am, Dm, and Em chords. Warm up Finger stretch. Walking the notes. C Scale. Happy…]]></description><link>https://atzack.com/guitar-am-dm-em-chord/</link><guid isPermaLink="false">https://atzack.com/guitar-am-dm-em-chord/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/d1d70/guitar-am-dm-em-chord.jpg&quot;
+    href=&quot;/static/b6626dc30277a33180a9ed3e5857d1aa/d1d70/guitar-am-dm-em-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2058,12 +2078,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Am Dm Em Chords&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/78f2b/guitar-am-dm-em-chord.jpg&quot;
-        srcset=&quot;/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/dce19/guitar-am-dm-em-chord.jpg 200w,
-/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/c1413/guitar-am-dm-em-chord.jpg 400w,
-/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/78f2b/guitar-am-dm-em-chord.jpg 800w,
-/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/ab4c4/guitar-am-dm-em-chord.jpg 1200w,
-/atzack/static/b6626dc30277a33180a9ed3e5857d1aa/d1d70/guitar-am-dm-em-chord.jpg 1280w&quot;
+        src=&quot;/static/b6626dc30277a33180a9ed3e5857d1aa/78f2b/guitar-am-dm-em-chord.jpg&quot;
+        srcset=&quot;/static/b6626dc30277a33180a9ed3e5857d1aa/dce19/guitar-am-dm-em-chord.jpg 200w,
+/static/b6626dc30277a33180a9ed3e5857d1aa/c1413/guitar-am-dm-em-chord.jpg 400w,
+/static/b6626dc30277a33180a9ed3e5857d1aa/78f2b/guitar-am-dm-em-chord.jpg 800w,
+/static/b6626dc30277a33180a9ed3e5857d1aa/ab4c4/guitar-am-dm-em-chord.jpg 1200w,
+/static/b6626dc30277a33180a9ed3e5857d1aa/d1d70/guitar-am-dm-em-chord.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2135,7 +2155,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+    href=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2154,10 +2174,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
-/atzack/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
+        src=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg&quot;
+        srcset=&quot;/static/5b4aa965f13fe68483fd43945a74a6a0/d6c9f/a-minor-chord.jpg 200w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/030bb/a-minor-chord.jpg 400w,
+/static/5b4aa965f13fe68483fd43945a74a6a0/08658/a-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2170,7 +2190,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+    href=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2189,10 +2209,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
-/atzack/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
+        src=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg&quot;
+        srcset=&quot;/static/1ab2c9ad38acfe610660d20bec32daf8/d6c9f/d-minor-chord.jpg 200w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/030bb/d-minor-chord.jpg 400w,
+/static/1ab2c9ad38acfe610660d20bec32daf8/08658/d-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2205,7 +2225,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+    href=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2224,10 +2244,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E minor Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
-        srcset=&quot;/atzack/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
-/atzack/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
+        src=&quot;/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg&quot;
+        srcset=&quot;/static/881702a659dcb01b4c131469936d02b8/d6c9f/e-minor-chord.jpg 200w,
+/static/881702a659dcb01b4c131469936d02b8/030bb/e-minor-chord.jpg 400w,
+/static/881702a659dcb01b4c131469936d02b8/08658/e-minor-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2237,7 +2257,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 4 One Minute Change]]></title><description><![CDATA[Daily Guitar Practice 4 It’s time to finish up with the A, D, and E chord. One minute change is added. As well as to play I Walk the Line…]]></description><link>https://atzack.com/guitar-one-minute-change/</link><guid isPermaLink="false">https://atzack.com/guitar-one-minute-change/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6f6bde6d94333fea5a5644f953441e6a/d1d70/guitar-one-minute-change.jpg&quot;
+    href=&quot;/static/6f6bde6d94333fea5a5644f953441e6a/d1d70/guitar-one-minute-change.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2256,12 +2276,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6f6bde6d94333fea5a5644f953441e6a/78f2b/guitar-one-minute-change.jpg&quot;
-        srcset=&quot;/atzack/static/6f6bde6d94333fea5a5644f953441e6a/dce19/guitar-one-minute-change.jpg 200w,
-/atzack/static/6f6bde6d94333fea5a5644f953441e6a/c1413/guitar-one-minute-change.jpg 400w,
-/atzack/static/6f6bde6d94333fea5a5644f953441e6a/78f2b/guitar-one-minute-change.jpg 800w,
-/atzack/static/6f6bde6d94333fea5a5644f953441e6a/ab4c4/guitar-one-minute-change.jpg 1200w,
-/atzack/static/6f6bde6d94333fea5a5644f953441e6a/d1d70/guitar-one-minute-change.jpg 1280w&quot;
+        src=&quot;/static/6f6bde6d94333fea5a5644f953441e6a/78f2b/guitar-one-minute-change.jpg&quot;
+        srcset=&quot;/static/6f6bde6d94333fea5a5644f953441e6a/dce19/guitar-one-minute-change.jpg 200w,
+/static/6f6bde6d94333fea5a5644f953441e6a/c1413/guitar-one-minute-change.jpg 400w,
+/static/6f6bde6d94333fea5a5644f953441e6a/78f2b/guitar-one-minute-change.jpg 800w,
+/static/6f6bde6d94333fea5a5644f953441e6a/ab4c4/guitar-one-minute-change.jpg 1200w,
+/static/6f6bde6d94333fea5a5644f953441e6a/d1d70/guitar-one-minute-change.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2323,7 +2343,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
+    href=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2342,10 +2362,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;C Scale on Guitar&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
-        srcset=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/5a774/guitar-c-scale.jpg 200w,
-/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/40103/guitar-c-scale.jpg 400w,
-/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg 768w&quot;
+        src=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
+        srcset=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/5a774/guitar-c-scale.jpg 200w,
+/static/cc5cc6d0ab38941b12d0738c4ab7f725/40103/guitar-c-scale.jpg 400w,
+/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg 768w&quot;
         sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2367,7 +2387,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+    href=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2386,10 +2406,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
+        src=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+        srcset=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
+/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
+/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2402,7 +2422,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+    href=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2421,10 +2441,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
+        src=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+        srcset=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
+/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
+/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2437,7 +2457,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+    href=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2456,10 +2476,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
+        src=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+        srcset=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2469,7 +2489,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 3 Happy Birthday]]></title><description><![CDATA[Daily Guitar Practice 3 Happy Birthday Today I will practice a really simple version of the song Happy birthday for ear training. And C…]]></description><link>https://atzack.com/guitar-happy-birthday/</link><guid isPermaLink="false">https://atzack.com/guitar-happy-birthday/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/476a8e706b72e9bc08dd21889fb9219c/d1d70/guitar-happy-birthday.jpg&quot;
+    href=&quot;/static/476a8e706b72e9bc08dd21889fb9219c/d1d70/guitar-happy-birthday.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2488,12 +2508,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/476a8e706b72e9bc08dd21889fb9219c/78f2b/guitar-happy-birthday.jpg&quot;
-        srcset=&quot;/atzack/static/476a8e706b72e9bc08dd21889fb9219c/dce19/guitar-happy-birthday.jpg 200w,
-/atzack/static/476a8e706b72e9bc08dd21889fb9219c/c1413/guitar-happy-birthday.jpg 400w,
-/atzack/static/476a8e706b72e9bc08dd21889fb9219c/78f2b/guitar-happy-birthday.jpg 800w,
-/atzack/static/476a8e706b72e9bc08dd21889fb9219c/ab4c4/guitar-happy-birthday.jpg 1200w,
-/atzack/static/476a8e706b72e9bc08dd21889fb9219c/d1d70/guitar-happy-birthday.jpg 1280w&quot;
+        src=&quot;/static/476a8e706b72e9bc08dd21889fb9219c/78f2b/guitar-happy-birthday.jpg&quot;
+        srcset=&quot;/static/476a8e706b72e9bc08dd21889fb9219c/dce19/guitar-happy-birthday.jpg 200w,
+/static/476a8e706b72e9bc08dd21889fb9219c/c1413/guitar-happy-birthday.jpg 400w,
+/static/476a8e706b72e9bc08dd21889fb9219c/78f2b/guitar-happy-birthday.jpg 800w,
+/static/476a8e706b72e9bc08dd21889fb9219c/ab4c4/guitar-happy-birthday.jpg 1200w,
+/static/476a8e706b72e9bc08dd21889fb9219c/d1d70/guitar-happy-birthday.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2557,7 +2577,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
+    href=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2576,10 +2596,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;C Scale on Guitar&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
-        srcset=&quot;/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/5a774/guitar-c-scale.jpg 200w,
-/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/40103/guitar-c-scale.jpg 400w,
-/atzack/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg 768w&quot;
+        src=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg&quot;
+        srcset=&quot;/static/cc5cc6d0ab38941b12d0738c4ab7f725/5a774/guitar-c-scale.jpg 200w,
+/static/cc5cc6d0ab38941b12d0738c4ab7f725/40103/guitar-c-scale.jpg 400w,
+/static/cc5cc6d0ab38941b12d0738c4ab7f725/00e6e/guitar-c-scale.jpg 768w&quot;
         sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2623,7 +2643,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+    href=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2642,10 +2662,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
+        src=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+        srcset=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
+/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
+/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2658,7 +2678,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+    href=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2677,10 +2697,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
+        src=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+        srcset=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
+/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
+/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2693,7 +2713,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+    href=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2712,10 +2732,10 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
+        src=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+        srcset=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2725,7 +2745,7 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 2 I Walk The Line Johnny Cash]]></title><description><![CDATA[Daily Guitar Practice 2 I Walk The Line Johnny Cash Today I will continue with the  A chord ,  D chord , and  E chord , but put more…]]></description><link>https://atzack.com/guitar-i-walk-the-line-johnny-cash/</link><guid isPermaLink="false">https://atzack.com/guitar-i-walk-the-line-johnny-cash/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5d457f7771b4b2cfcd54a1767f852789/d1d70/guitar-i-walk-the-line-johnny-cash.jpg&quot;
+    href=&quot;/static/5d457f7771b4b2cfcd54a1767f852789/d1d70/guitar-i-walk-the-line-johnny-cash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2744,12 +2764,12 @@ F F E C D C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5d457f7771b4b2cfcd54a1767f852789/78f2b/guitar-i-walk-the-line-johnny-cash.jpg&quot;
-        srcset=&quot;/atzack/static/5d457f7771b4b2cfcd54a1767f852789/dce19/guitar-i-walk-the-line-johnny-cash.jpg 200w,
-/atzack/static/5d457f7771b4b2cfcd54a1767f852789/c1413/guitar-i-walk-the-line-johnny-cash.jpg 400w,
-/atzack/static/5d457f7771b4b2cfcd54a1767f852789/78f2b/guitar-i-walk-the-line-johnny-cash.jpg 800w,
-/atzack/static/5d457f7771b4b2cfcd54a1767f852789/ab4c4/guitar-i-walk-the-line-johnny-cash.jpg 1200w,
-/atzack/static/5d457f7771b4b2cfcd54a1767f852789/d1d70/guitar-i-walk-the-line-johnny-cash.jpg 1280w&quot;
+        src=&quot;/static/5d457f7771b4b2cfcd54a1767f852789/78f2b/guitar-i-walk-the-line-johnny-cash.jpg&quot;
+        srcset=&quot;/static/5d457f7771b4b2cfcd54a1767f852789/dce19/guitar-i-walk-the-line-johnny-cash.jpg 200w,
+/static/5d457f7771b4b2cfcd54a1767f852789/c1413/guitar-i-walk-the-line-johnny-cash.jpg 400w,
+/static/5d457f7771b4b2cfcd54a1767f852789/78f2b/guitar-i-walk-the-line-johnny-cash.jpg 800w,
+/static/5d457f7771b4b2cfcd54a1767f852789/ab4c4/guitar-i-walk-the-line-johnny-cash.jpg 1200w,
+/static/5d457f7771b4b2cfcd54a1767f852789/d1d70/guitar-i-walk-the-line-johnny-cash.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2890,7 +2910,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+    href=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2909,10 +2929,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;A Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
-/atzack/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
+        src=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg&quot;
+        srcset=&quot;/static/5a5c753e6fb2db04cd62d80872013e29/d6c9f/a-major-chord.jpg 200w,
+/static/5a5c753e6fb2db04cd62d80872013e29/030bb/a-major-chord.jpg 400w,
+/static/5a5c753e6fb2db04cd62d80872013e29/08658/a-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2925,7 +2945,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+    href=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2944,10 +2964,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
-/atzack/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
+        src=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg&quot;
+        srcset=&quot;/static/6ddf58d133ab9d90008916ae85e06f92/d6c9f/d-major-chord.jpg 200w,
+/static/6ddf58d133ab9d90008916ae85e06f92/030bb/d-major-chord.jpg 400w,
+/static/6ddf58d133ab9d90008916ae85e06f92/08658/d-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2960,7 +2980,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+    href=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2979,10 +2999,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
-/atzack/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
+        src=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg&quot;
+        srcset=&quot;/static/e374ecc78c3f7fde6528af8aaaa544d7/d6c9f/e-major-chord.jpg 200w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/030bb/e-major-chord.jpg 400w,
+/static/e374ecc78c3f7fde6528af8aaaa544d7/08658/e-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2992,7 +3012,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar Practice 1 A, D, E Chords]]></title><description><![CDATA[Daily Guitar Practice 1: A, D, E Chords Today’s focus is  A chord ,  D chord , and  E chord . Here is the practice plan. Part 1: Warm up…]]></description><link>https://atzack.com/guitar-a-d-e-chords/</link><guid isPermaLink="false">https://atzack.com/guitar-a-d-e-chords/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/d1d70/guitar-a-d-e-chords.jpg&quot;
+    href=&quot;/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/d1d70/guitar-a-d-e-chords.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3011,12 +3031,12 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/78f2b/guitar-a-d-e-chords.jpg&quot;
-        srcset=&quot;/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/dce19/guitar-a-d-e-chords.jpg 200w,
-/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/c1413/guitar-a-d-e-chords.jpg 400w,
-/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/78f2b/guitar-a-d-e-chords.jpg 800w,
-/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/ab4c4/guitar-a-d-e-chords.jpg 1200w,
-/atzack/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/d1d70/guitar-a-d-e-chords.jpg 1280w&quot;
+        src=&quot;/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/78f2b/guitar-a-d-e-chords.jpg&quot;
+        srcset=&quot;/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/dce19/guitar-a-d-e-chords.jpg 200w,
+/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/c1413/guitar-a-d-e-chords.jpg 400w,
+/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/78f2b/guitar-a-d-e-chords.jpg 800w,
+/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/ab4c4/guitar-a-d-e-chords.jpg 1200w,
+/static/bbdc3c8d41b2d1c5d92d7c9e2a64c7e1/d1d70/guitar-a-d-e-chords.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3180,7 +3200,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg&quot;
+    href=&quot;/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3199,10 +3219,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;C Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/26c5fdd5ea2155004c2502c6ecf3dd62/d6c9f/a-major-chord.jpg 200w,
-/atzack/static/26c5fdd5ea2155004c2502c6ecf3dd62/030bb/a-major-chord.jpg 400w,
-/atzack/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg 480w&quot;
+        src=&quot;/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg&quot;
+        srcset=&quot;/static/26c5fdd5ea2155004c2502c6ecf3dd62/d6c9f/a-major-chord.jpg 200w,
+/static/26c5fdd5ea2155004c2502c6ecf3dd62/030bb/a-major-chord.jpg 400w,
+/static/26c5fdd5ea2155004c2502c6ecf3dd62/08658/a-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3215,7 +3235,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg&quot;
+    href=&quot;/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3234,10 +3254,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;D Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/b032a959bcae6efe80bf14ef381d5959/d6c9f/d-major-chord.jpg 200w,
-/atzack/static/b032a959bcae6efe80bf14ef381d5959/030bb/d-major-chord.jpg 400w,
-/atzack/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg 480w&quot;
+        src=&quot;/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg&quot;
+        srcset=&quot;/static/b032a959bcae6efe80bf14ef381d5959/d6c9f/d-major-chord.jpg 200w,
+/static/b032a959bcae6efe80bf14ef381d5959/030bb/d-major-chord.jpg 400w,
+/static/b032a959bcae6efe80bf14ef381d5959/08658/d-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3250,7 +3270,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg&quot;
+    href=&quot;/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3269,10 +3289,10 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;E Major Guitar Chord&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg&quot;
-        srcset=&quot;/atzack/static/e913d18c873f895e968d173bb49b3a62/d6c9f/e-major-chord.jpg 200w,
-/atzack/static/e913d18c873f895e968d173bb49b3a62/030bb/e-major-chord.jpg 400w,
-/atzack/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg 480w&quot;
+        src=&quot;/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg&quot;
+        srcset=&quot;/static/e913d18c873f895e968d173bb49b3a62/d6c9f/e-major-chord.jpg 200w,
+/static/e913d18c873f895e968d173bb49b3a62/030bb/e-major-chord.jpg 400w,
+/static/e913d18c873f895e968d173bb49b3a62/08658/e-major-chord.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3296,7 +3316,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;But these are thoughts of a beginner, I could be wrong.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Guitar learning - a big picture, daily practice routines and buddies]]></title><description><![CDATA[I always wanted to learn how to play guitar, but can never keep on practicing for more than 2 months. Recently, I’ve made up my mind that I…]]></description><link>https://atzack.com/guitar-apprentice/</link><guid isPermaLink="false">https://atzack.com/guitar-apprentice/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/3758058a4c941192a82440785c3bef5c/d1d70/guitar.jpg&quot;
+    href=&quot;/static/3758058a4c941192a82440785c3bef5c/d1d70/guitar.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3315,12 +3335,12 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/3758058a4c941192a82440785c3bef5c/78f2b/guitar.jpg&quot;
-        srcset=&quot;/atzack/static/3758058a4c941192a82440785c3bef5c/dce19/guitar.jpg 200w,
-/atzack/static/3758058a4c941192a82440785c3bef5c/c1413/guitar.jpg 400w,
-/atzack/static/3758058a4c941192a82440785c3bef5c/78f2b/guitar.jpg 800w,
-/atzack/static/3758058a4c941192a82440785c3bef5c/ab4c4/guitar.jpg 1200w,
-/atzack/static/3758058a4c941192a82440785c3bef5c/d1d70/guitar.jpg 1280w&quot;
+        src=&quot;/static/3758058a4c941192a82440785c3bef5c/78f2b/guitar.jpg&quot;
+        srcset=&quot;/static/3758058a4c941192a82440785c3bef5c/dce19/guitar.jpg 200w,
+/static/3758058a4c941192a82440785c3bef5c/c1413/guitar.jpg 400w,
+/static/3758058a4c941192a82440785c3bef5c/78f2b/guitar.jpg 800w,
+/static/3758058a4c941192a82440785c3bef5c/ab4c4/guitar.jpg 1200w,
+/static/3758058a4c941192a82440785c3bef5c/d1d70/guitar.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3333,7 +3353,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/d1d70/lost-in-guitar-world.jpg&quot;
+    href=&quot;/static/704658af2f8a84e2fad21ae4a6106cc1/d1d70/lost-in-guitar-world.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3352,12 +3372,12 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Lost in guitar world&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/78f2b/lost-in-guitar-world.jpg&quot;
-        srcset=&quot;/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/dce19/lost-in-guitar-world.jpg 200w,
-/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/c1413/lost-in-guitar-world.jpg 400w,
-/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/78f2b/lost-in-guitar-world.jpg 800w,
-/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/ab4c4/lost-in-guitar-world.jpg 1200w,
-/atzack/static/704658af2f8a84e2fad21ae4a6106cc1/d1d70/lost-in-guitar-world.jpg 1280w&quot;
+        src=&quot;/static/704658af2f8a84e2fad21ae4a6106cc1/78f2b/lost-in-guitar-world.jpg&quot;
+        srcset=&quot;/static/704658af2f8a84e2fad21ae4a6106cc1/dce19/lost-in-guitar-world.jpg 200w,
+/static/704658af2f8a84e2fad21ae4a6106cc1/c1413/lost-in-guitar-world.jpg 400w,
+/static/704658af2f8a84e2fad21ae4a6106cc1/78f2b/lost-in-guitar-world.jpg 800w,
+/static/704658af2f8a84e2fad21ae4a6106cc1/ab4c4/lost-in-guitar-world.jpg 1200w,
+/static/704658af2f8a84e2fad21ae4a6106cc1/d1d70/lost-in-guitar-world.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3373,7 +3393,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/0702da8bf4e85fb6750919dd3955d100/d1d70/guitar-practice.jpg&quot;
+    href=&quot;/static/0702da8bf4e85fb6750919dd3955d100/d1d70/guitar-practice.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3392,12 +3412,12 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Practice&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/0702da8bf4e85fb6750919dd3955d100/78f2b/guitar-practice.jpg&quot;
-        srcset=&quot;/atzack/static/0702da8bf4e85fb6750919dd3955d100/dce19/guitar-practice.jpg 200w,
-/atzack/static/0702da8bf4e85fb6750919dd3955d100/c1413/guitar-practice.jpg 400w,
-/atzack/static/0702da8bf4e85fb6750919dd3955d100/78f2b/guitar-practice.jpg 800w,
-/atzack/static/0702da8bf4e85fb6750919dd3955d100/ab4c4/guitar-practice.jpg 1200w,
-/atzack/static/0702da8bf4e85fb6750919dd3955d100/d1d70/guitar-practice.jpg 1280w&quot;
+        src=&quot;/static/0702da8bf4e85fb6750919dd3955d100/78f2b/guitar-practice.jpg&quot;
+        srcset=&quot;/static/0702da8bf4e85fb6750919dd3955d100/dce19/guitar-practice.jpg 200w,
+/static/0702da8bf4e85fb6750919dd3955d100/c1413/guitar-practice.jpg 400w,
+/static/0702da8bf4e85fb6750919dd3955d100/78f2b/guitar-practice.jpg 800w,
+/static/0702da8bf4e85fb6750919dd3955d100/ab4c4/guitar-practice.jpg 1200w,
+/static/0702da8bf4e85fb6750919dd3955d100/d1d70/guitar-practice.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3428,7 +3448,7 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/atzack/static/1afb1199d6ba985c77044b17646bb9aa/d1d70/guitar-buddy.jpg&quot;
+    href=&quot;/static/1afb1199d6ba985c77044b17646bb9aa/d1d70/guitar-buddy.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3447,12 +3467,12 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Guitar Buddy&quot;
         title=&quot;&quot;
-        src=&quot;/atzack/static/1afb1199d6ba985c77044b17646bb9aa/78f2b/guitar-buddy.jpg&quot;
-        srcset=&quot;/atzack/static/1afb1199d6ba985c77044b17646bb9aa/dce19/guitar-buddy.jpg 200w,
-/atzack/static/1afb1199d6ba985c77044b17646bb9aa/c1413/guitar-buddy.jpg 400w,
-/atzack/static/1afb1199d6ba985c77044b17646bb9aa/78f2b/guitar-buddy.jpg 800w,
-/atzack/static/1afb1199d6ba985c77044b17646bb9aa/ab4c4/guitar-buddy.jpg 1200w,
-/atzack/static/1afb1199d6ba985c77044b17646bb9aa/d1d70/guitar-buddy.jpg 1280w&quot;
+        src=&quot;/static/1afb1199d6ba985c77044b17646bb9aa/78f2b/guitar-buddy.jpg&quot;
+        srcset=&quot;/static/1afb1199d6ba985c77044b17646bb9aa/dce19/guitar-buddy.jpg 200w,
+/static/1afb1199d6ba985c77044b17646bb9aa/c1413/guitar-buddy.jpg 400w,
+/static/1afb1199d6ba985c77044b17646bb9aa/78f2b/guitar-buddy.jpg 800w,
+/static/1afb1199d6ba985c77044b17646bb9aa/ab4c4/guitar-buddy.jpg 1200w,
+/static/1afb1199d6ba985c77044b17646bb9aa/d1d70/guitar-buddy.jpg 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3461,6 +3481,6 @@ Because you&amp;#39;re mine, I walk the line&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;We human are social animals. It’s always an good idea to have somebody by your side, to practice together, to discuss what we learned, to encourage each other, and also to create peer pressure so that we don’t give up easily. We can also discuss about  the map and the weekly planning.&lt;/p&gt;
-&lt;p&gt;If you are interested in anything I said above, feel free to &lt;a href=&quot;/atzack/contact&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[This is Zack. I’m learning coding.]]></description><link>https://atzack.com/about/</link><guid isPermaLink="false">https://atzack.com/about/</guid><content:encoded>&lt;p&gt;This is Zack. I’m learning coding.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Success]]></title><description><![CDATA[Thank you.  
+&lt;p&gt;If you are interested in anything I said above, feel free to &lt;a href=&quot;/contact&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[This is Zack. I’m learning coding.]]></description><link>https://atzack.com/about/</link><guid isPermaLink="false">https://atzack.com/about/</guid><content:encoded>&lt;p&gt;This is Zack. I’m learning coding.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Success]]></title><description><![CDATA[Thank you.  
 I will answer to your message as soon as possible.]]></description><link>https://atzack.com/success/</link><guid isPermaLink="false">https://atzack.com/success/</guid><content:encoded>&lt;p&gt;Thank you. &lt;br /&gt;
 I will answer to your message as soon as possible.&lt;/p&gt;</content:encoded></item></channel></rss>
