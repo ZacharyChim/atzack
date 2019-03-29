@@ -83,6 +83,11 @@ D   D   DUD D
 6. New Song: 
     * [Stand by Me by Ben E King](https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/ben_e_king/stand_by_me_chords_1724608)
+    * Strumming pattern: (X) = palm mute
+
+        * Verse: ↓ _ ↓(X) ↑ _ _ ↓(X) _
+
+        * Chorus: ↓ ↑ ↓(X) ↑ _ ↑ ↓(X) _
 
 **Day 4: 7th Chords & What's Up by 4 Non Blondes**
 
@@ -110,3 +115,6 @@ D   D   DUD D
 6. New Song: 
     * [What's Up by 4 Non Blondes](https://www.justinguitar.com/songs/4-non-blondes-what-s-up-chords-tabs-guitar-lesson-bs-308)
     * [Guitar Tabs](https://tabs.ultimate-guitar.com/tab/4_non_blondes/whats_up_chords_349210)
+    * Strumming pattern:
+
+        * ↓ _ ↓ ↑ ↓ _ ↓ ↑ ↓ ↑ ↓ ↑ _ ↑ ↓ ↑
