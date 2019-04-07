@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://atzack.com/category/guitar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/category/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/category/w-3-schools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://atzack.com/category/guitar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://atzack.com/guitar-30-days-challenge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/w3schools-lightbox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/w3schools-responsive-nav/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/w3schools-slideshow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,6 +24,7 @@
 <url> <loc>https://atzack.com/guitar-i-walk-the-line-johnny-cash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/guitar-a-d-e-chords/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/guitar-apprentice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://atzack.com/draft-guitar-30-days-challenge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://atzack.com/category/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
