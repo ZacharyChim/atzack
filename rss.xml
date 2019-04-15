@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 07 Apr 2019 22:06:38 GMT</lastBuildDate><item><title><![CDATA[How to Create a Lightbox - W3Schools Video 06]]></title><description><![CDATA[A Lightbox is a popup/modal window that shows an image or an image gallery. W3Schools offers two tutorials on this matter: Modal Images and…]]></description><link>https://atzack.com/w3schools-lightbox/</link><guid isPermaLink="false">https://atzack.com/w3schools-lightbox/</guid><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Apr 2019 09:48:34 GMT</lastBuildDate><item><title><![CDATA[How to Create a Parallax Effect - W3Schools Video 07]]></title><description><![CDATA[Parallax is a scrolling effect where the background content, usually an image, is moved slower than the foreground content or is not moved…]]></description><link>https://atzack.com/w3schools-parallax/</link><guid isPermaLink="false">https://atzack.com/w3schools-parallax/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ccad48e119407c8dd6cff63a4ed48c5c/0975d/parallax.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 48.828125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHXhOHFK//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIzQf/aAAgBAQABBQJM4zPZXD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAQMgABETH/2gAIAQEABj8CXYlno//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExQVFx/9oACAEBAAE/IUNah0c4g9GTeNFWirFIsPT/2gAMAwEAAgADAAAAEA8f/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAICAwEAAAAAAAAAAAAAAQARIUExYbFx/9oACAEBAAE/EA4MWVFvOpaJlDS9y3IKKBuiphcVOMTtAb+zwPJ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;Parallax&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ccad48e119407c8dd6cff63a4ed48c5c/78f2b/parallax.jpg&quot;
+        srcset=&quot;/static/ccad48e119407c8dd6cff63a4ed48c5c/dce19/parallax.jpg 200w,
+/static/ccad48e119407c8dd6cff63a4ed48c5c/c1413/parallax.jpg 400w,
+/static/ccad48e119407c8dd6cff63a4ed48c5c/78f2b/parallax.jpg 800w,
+/static/ccad48e119407c8dd6cff63a4ed48c5c/0975d/parallax.jpg 1024w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Parallax is a scrolling effect where the background content, usually an image, is moved slower than the foreground content or is not moved at all while scrolling. This effect was quite popular for a while, you can still find them on many websites that emphasize their design. It is easier than I thought to create such an effect and it’s basically based on the &lt;code class=&quot;language-text&quot;&gt;background-attachment&lt;/code&gt; setting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/howto/howto_css_parallax.asp&quot;&gt;W3Schools Parallax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm&quot;&gt;Parallax Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/cssref/pr_background-attachment.asp&quot;&gt;background-attachment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;h2&gt;How to Create a Parallax Effect&lt;/h2&gt;
+&lt;p&gt;How to create a parallax effect:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use a container (div) for the background image.&lt;/li&gt;
+&lt;li&gt;Set the height of the container, which is also the height of the background image; If the container is taking the whole screen as its height (height: 100%), make sure that you set the height of the &lt;code class=&quot;language-text&quot;&gt;body&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;html&lt;/code&gt; to 100% too, otherwise, the background would be overlaid by the foreground content.&lt;/li&gt;
+&lt;li&gt;Set &lt;code class=&quot;language-text&quot;&gt;background-attachment: fixed&lt;/code&gt;, so that the background doesn’t move while scrolling.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;The HTML of the parallax demo&lt;/h3&gt;
+&lt;p&gt;Here’s the HTML of the parallax demo:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;div class=&amp;quot;parallax&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+
+&amp;lt;div style=&amp;quot;height:1000px;background-color:blue;font-size:36px&amp;quot;&amp;gt;
+Scroll Up and Down this page to see the parallax scrolling effect.
+This div is just here to enable scrolling.
+Tip: Try to remove the background-attachment property to remove the scrolling effect.
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;parallax&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The HTML part is quite simple, just a container for the background image and another container for the foreground content. The last container is the same as the first and can be omitted. It creates an effect of the background image “coming back”.&lt;/p&gt;
+&lt;h3&gt;The CSS of the Parallax demo&lt;/h3&gt;
+&lt;p&gt;And here is the CSS of the Parallax demo:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url(&amp;#39;img_parallax.jpg&amp;#39;);
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In this demo, the background image is taking up the whole screen, therefore, the height of the &lt;code class=&quot;language-text&quot;&gt;body&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;html&lt;/code&gt; is also set to 100%. We assigned the background image to the parallax class in CSS. And finally, we set the &lt;code class=&quot;language-text&quot;&gt;background-attachment&lt;/code&gt; to fixed, so that the background does move while scrolling. And set the position of the background image to the center of the container, do not repeat it, and lastly let it cover the whole container.&lt;/p&gt;
+&lt;p&gt;That’s how you create a parallax effect, you don’t even need JavaScript. It’s easy and looks pretty cool.&lt;/p&gt;
+&lt;p&gt;The code for the W3Schools series is available on GitHub: &lt;a href=&quot;https://github.com/ZacharyChim/W3Schools&quot;&gt;W3Schools GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;W3Schools How-To Videos&lt;/h2&gt;
+&lt;p&gt;W3Schools is a well-known web design/front-end development tutorial website, which not only provides detailed tutorials on HTML, CSS, JavaScript, etc., but also can be used as a reference, as it explains almost everything in the web design field. You probably have already visited this website as a frontend developer, because it often appears on the first page of many search results that are related to web design. And its How To section is really useful. It provides tutorials on, for example, how to make a SlideShow (picture carousel), a Lightbox, a Parallax effect and so on. So I want to do a series of videos dedicated to these How-Tos.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://atzack.com/w3schools-web-layout/&quot;&gt;Float Responsive Layout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atzack.com/w3schools-flex/&quot;&gt;Flexbox Responsive Layout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atzack.com/w3schools-grid/&quot;&gt;CSS Grid Responsive Layout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atzack.com/w3schools-slideshow/&quot;&gt;How to Create a Slideshow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atzack.com/w3schools-responsive-nav/&quot;&gt;How to Create a Responsive Navigation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[How to Create a Lightbox - W3Schools Video 06]]></title><description><![CDATA[A Lightbox is a popup/modal window that shows an image or an image gallery. W3Schools offers two tutorials on this matter: Modal Images and…]]></description><link>https://atzack.com/w3schools-lightbox/</link><guid isPermaLink="false">https://atzack.com/w3schools-lightbox/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/ca4def07fe309ba5f44138b4a519477e/0975d/lightbox.jpg&quot;
