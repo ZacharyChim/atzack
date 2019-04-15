@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Apr 2019 09:48:34 GMT</lastBuildDate><item><title><![CDATA[How to Create a Parallax Effect - W3Schools Video 07]]></title><description><![CDATA[Parallax is a scrolling effect where the background content, usually an image, is moved slower than the foreground content or is not moved…]]></description><link>https://atzack.com/w3schools-parallax/</link><guid isPermaLink="false">https://atzack.com/w3schools-parallax/</guid><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@Zack - Keep Learning]]></title><description><![CDATA[@Zack - Keep Learning]]></description><link>https://atzack.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Apr 2019 10:21:50 GMT</lastBuildDate><item><title><![CDATA[How to Create a Parallax Effect - W3Schools Video 07]]></title><description><![CDATA[Parallax is a scrolling effect where the background content, usually an image, is moved slower than the foreground content or is not moved…]]></description><link>https://atzack.com/w3schools-parallax/</link><guid isPermaLink="false">https://atzack.com/w3schools-parallax/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/ccad48e119407c8dd6cff63a4ed48c5c/0975d/parallax.jpg&quot;
@@ -38,7 +38,27 @@
 &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm&quot;&gt;Parallax Demo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/cssref/pr_background-attachment.asp&quot;&gt;background-attachment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;&lt;div&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 2em&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/niJWgNbip58?rel=0&quot; class=&quot;embedVideo-iframe&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;style&gt;
+        .embedVideo-iframe {
+          border: 0
+        }
+      &lt;/style&gt;
+          &lt;/div&gt;
+          &lt;/div&gt;&lt;/p&gt;
 &lt;h2&gt;How to Create a Parallax Effect&lt;/h2&gt;
 &lt;p&gt;How to create a parallax effect:&lt;/p&gt;
 &lt;ol&gt;
